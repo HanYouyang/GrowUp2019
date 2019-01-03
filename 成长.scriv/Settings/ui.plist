@@ -218,8 +218,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {242, 1400}}</string>
-		<string>{{243, 0}, {2317, 1400}}</string>
+		<string>{{0, 0}, {517, 1400}}</string>
+		<string>{{518, 0}, {2042, 1400}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -286,8 +286,8 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {2089, 1370}}</string>
-		<string>{{2090, 0}, {227, 1370}}</string>
+		<string>{{0, 0}, {1814, 1370}}</string>
+		<string>{{1815, 0}, {227, 1370}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -306,7 +306,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1481 -8 1216 741 1280 -640 2560 1417 </string>
+	<string>1665 -69 1216 741 1280 -640 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
