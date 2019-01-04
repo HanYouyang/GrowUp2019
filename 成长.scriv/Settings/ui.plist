@@ -244,6 +244,11 @@
 	</dict>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
+		<key>CCB93021-FA76-4928-AAFF-A6F19AB560F0</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>Project</key>
 		<dict>
 			<key>Row</key>
@@ -286,8 +291,8 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {650.5, 689}}</string>
-		<string>{{651.5, 0}, {227, 689}}</string>
+		<string>{{0, 0}, {646.5, 689}}</string>
+		<string>{{647.5, 0}, {231, 689}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -306,7 +311,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1665 -69 1216 741 1280 -640 2560 1417 </string>
+	<string>53 36 1216 741 0 0 1280 777 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
