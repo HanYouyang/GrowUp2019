@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-01-10 12:46:00 +0800" ModID="5B7724C4-7D06-48DD-BD44-DCEF76959898">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-01-10 12:58:48 +0800" ModID="B90D9A17-8797-4DEA-A9CE-B2E6B09D6035">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-01-05 00:23:36 +0800">
             <Title>自己~狡兔</Title>
@@ -15,7 +15,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>37,0</TextSelection>
+                        <TextSelection>146,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="468B8FFD-9392-4139-BDB2-53DDAC621256" Type="Text" Created="2019-01-05 23:47:49 +0800" Modified="2019-01-06 00:01:22 +0800">
@@ -27,13 +27,13 @@
                         <TextSelection>48,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="CCB93021-FA76-4928-AAFF-A6F19AB560F0" Type="Text" Created="2018-08-17 11:12:55 +0800" Modified="2019-01-10 12:39:57 +0800">
+                <BinderItem UUID="CCB93021-FA76-4928-AAFF-A6F19AB560F0" Type="Text" Created="2018-08-17 11:12:55 +0800" Modified="2019-01-10 12:55:21 +0800">
                     <Title>逆向思考-竞争</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>984,0</TextSelection>
+                        <TextSelection>120,51</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="24C3E4C0-E4FC-4BEF-9BEE-38AFF8B242AF" Type="Text" Created="2019-01-10 12:40:32 +0800" Modified="2019-01-10 12:41:03 +0800">
@@ -45,22 +45,13 @@
                         <TextSelection>1,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="65FF1E4A-9792-4C74-99C4-A39B3FDC61C7" Type="Text" Created="2018-02-19 12:07:07 +0800" Modified="2019-01-08 16:43:52 +0800">
-                    <Title>逆向思考-拿产品说话</Title>
+                <BinderItem UUID="ECBFE995-F266-4DA8-8C25-5D095A56EFC0" Type="Text" Created="2019-01-03 10:12:26 +0800" Modified="2019-01-10 12:58:48 +0800">
+                    <Title>目的论+定位论</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>36,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="ECBFE995-F266-4DA8-8C25-5D095A56EFC0" Type="Text" Created="2019-01-03 10:12:26 +0800" Modified="2019-01-05 23:25:25 +0800">
-                    <Title>目的论</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,307</TextSelection>
+                        <TextSelection>312,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1EC1D146-6298-4FD7-9FBC-1DE04A952B22" Type="Text" Created="2019-01-06 00:20:51 +0800" Modified="2019-01-06 00:21:21 +0800">
@@ -69,7 +60,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14,0</TextSelection>
+                        <TextSelection>0,14</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="B914AC46-F157-4B93-B291-248C0F3FD756" Type="Text" Created="2019-01-05 01:44:55 +0800" Modified="2019-01-05 01:49:42 +0800">
@@ -7230,6 +7221,17 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="65FF1E4A-9792-4C74-99C4-A39B3FDC61C7" Type="Text" Created="2018-02-19 12:07:07 +0800" Modified="2019-01-08 16:43:52 +0800">
+                    <Title>逆向思考-拿产品说话</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -7373,8 +7375,8 @@
     <RecentWritingHistory Date="2019-01-10 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>29</OtherWordCount>
-        <OtherCharCount>66</OtherCharCount>
+        <OtherWordCount>-4</OtherWordCount>
+        <OtherCharCount>18</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
