@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-01-12 12:39:12 +0800" ModID="88465E7E-23F0-429F-B42C-A7BDF361C580">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-01-13 00:20:26 +0800" ModID="1351FA43-D148-4E7E-B041-28A7416B56A9">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-01-05 00:23:36 +0800">
             <Title>自己~狡兔</Title>
@@ -866,22 +866,22 @@
                                 <TextSelection>0,22</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="71BCB4DA-0007-443B-801C-85D0F06A6B38" Type="Text" Created="2018-09-25 16:15:00 +0800" Modified="2019-01-07 11:00:48 +0800">
+                                <BinderItem UUID="71BCB4DA-0007-443B-801C-85D0F06A6B38" Type="Text" Created="2018-09-25 16:15:00 +0800" Modified="2019-01-12 17:53:47 +0800">
                                     <Title>0924</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>161,0</TextSelection>
+                                        <TextSelection>51,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="2E7FDB23-F955-4767-81BF-39115A1C6BDC" Type="Text" Created="2019-01-07 11:00:51 +0800" Modified="2019-01-11 12:45:39 +0800">
+                                <BinderItem UUID="2E7FDB23-F955-4767-81BF-39115A1C6BDC" Type="Text" Created="2019-01-07 11:00:51 +0800" Modified="2019-01-12 23:25:55 +0800">
                                     <Title>词汇题</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1173,0</TextSelection>
+                                        <TextSelection>1182,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="95B504FF-3698-4714-A426-E07AFA64AB8C" Type="Text" Created="2019-01-09 12:08:21 +0800" Modified="2019-01-09 12:17:35 +0800">
@@ -920,31 +920,31 @@
                                         <TextSelection>12,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="022D2E44-85EE-4D88-8CD7-BDCFEEBAEE22" Type="Text" Created="2019-01-08 17:49:52 +0800" Modified="2019-01-12 11:40:23 +0800">
+                                <BinderItem UUID="022D2E44-85EE-4D88-8CD7-BDCFEEBAEE22" Type="Text" Created="2019-01-08 17:49:52 +0800" Modified="2019-01-12 17:55:01 +0800">
                                     <Title>功能目的题</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>329,0</TextSelection>
+                                        <TextSelection>331,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="7F652F0F-B280-4A8C-A679-DEBC2D8F4ECC" Type="Text" Created="2019-01-09 18:11:58 +0800" Modified="2019-01-09 18:12:42 +0800">
-                                    <Title>因果题</Title>
+                                <BinderItem UUID="7F652F0F-B280-4A8C-A679-DEBC2D8F4ECC" Type="Text" Created="2019-01-09 18:11:58 +0800" Modified="2019-01-12 17:55:44 +0800">
+                                    <Title>总结题</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>14,0</TextSelection>
+                                        <TextSelection>291,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="6E770DF6-A55F-4AA0-8E43-0D9108A007AB" Type="Text" Created="2019-01-11 12:47:16 +0800" Modified="2019-01-11 12:48:17 +0800">
+                                <BinderItem UUID="6E770DF6-A55F-4AA0-8E43-0D9108A007AB" Type="Text" Created="2019-01-11 12:47:16 +0800" Modified="2019-01-12 17:56:02 +0800">
                                     <Title>插入题</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>58,0</TextSelection>
+                                        <TextSelection>32,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="13B83855-4B15-4E91-ABFF-28FDE01817B9" Type="Text" Created="2019-01-07 16:43:58 +0800" Modified="2019-01-10 00:03:25 +0800">
@@ -953,7 +953,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>32,0</TextSelection>
+                                        <TextSelection>33,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1312,13 +1312,13 @@
                                         <TextSelection>650,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="3CFA8C0B-CDDE-4B9B-A3C9-0379A78A6E90" Type="Text" Created="2019-01-07 10:11:51 +0800" Modified="2019-01-12 12:10:16 +0800">
+                                <BinderItem UUID="3CFA8C0B-CDDE-4B9B-A3C9-0379A78A6E90" Type="Text" Created="2019-01-07 10:11:51 +0800" Modified="2019-01-13 00:02:16 +0800">
                                     <Title>单词</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>111,0</TextSelection>
+                                        <TextSelection>426,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1762,161 +1762,6 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="6FABBE4F-A34D-4171-9F86-ED6E380B3265" Type="Text" Created="2018-11-27 15:25:10 +0800" Modified="2018-11-27 15:25:47 +0800">
-                            <Title>sigmacore</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,10</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem UUID="302C726D-4A63-4A07-B766-10BEACDC4D13" Type="Text" Created="2018-11-08 12:17:55 +0800" Modified="2018-11-26 13:06:04 +0800">
-                                    <Title>房价真的会就这样一直涨下去吗？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1125,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="5596AD70-AC81-421E-9014-994BA3619535" Type="Text" Created="2018-11-08 12:43:07 +0800" Modified="2018-11-26 14:00:17 +0800">
-                                    <Title>个人资产配置内容</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>184,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="8F3654BD-92AB-4D67-AA06-4661A1234225" Type="Text" Created="2018-11-08 12:49:44 +0800" Modified="2018-11-26 13:08:17 +0800">
-                                    <Title>一个国家如果因为经济困难偷偷印制钞票，在度过困难后将之前偷印的钱销毁是否可行？为什么？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>88,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="3BBE66F9-4265-4388-85D6-3816688E6387" Type="Text" Created="2018-11-08 13:45:37 +0800" Modified="2018-11-26 12:39:28 +0800">
-                                    <Title>如何看待17年6月至今人民币汇率暴涨？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>247,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="9796B637-4ED5-485F-80D6-43ECED7751A1" Type="Text" Created="2018-11-08 14:53:44 +0800" Modified="2018-11-26 12:33:42 +0800">
-                                    <Title>房价真的会就这样一直涨下去吗？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,1352</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="C9F6B3B4-B6E1-40F5-982A-CB2838C48DBC" Type="Text" Created="2018-11-08 12:40:07 +0800" Modified="2018-11-26 12:28:54 +0800">
-                                    <Title>如果房价一夜之间暴跌，会引发哪些连锁反应？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>80,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="E5E3D699-82A7-412D-80F1-581313895305" Type="Text" Created="2018-11-08 13:42:36 +0800" Modified="2018-11-26 12:30:15 +0800">
-                                    <Title>早两年买房的和现在买房的人，生活有怎样的不同？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>72,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="C51A81C7-C190-43CB-B0DA-F07A77BC96A2" Type="Text" Created="2018-11-08 13:43:59 +0800" Modified="2018-11-26 12:32:25 +0800">
-                                    <Title>中国人很聪明而且小学初中高中所学的知识比美国的孩子多得多，为什么中国的学术比不上美国，究竟差在哪呢？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>148,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="FFAF6257-7887-4FA2-814C-C238B8E9FFF3" Type="Text" Created="2018-11-08 13:45:12 +0800" Modified="2018-11-26 12:35:13 +0800">
-                                    <Title>50年后的2067年，我们应如何让子孙们理解当年人们对买房子并看涨房价这件事的执着与疯狂？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>51,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="298985A0-692D-4491-9B85-80B6CD4C30BB" Type="Text" Created="2018-11-08 13:47:23 +0800" Modified="2018-11-26 13:04:11 +0800">
-                                    <Title>中国2018的经济何去何从？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>110,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="29D69798-D02F-47D6-B90F-F79609878712" Type="Text" Created="2018-11-08 13:48:24 +0800" Modified="2018-11-26 13:04:52 +0800">
-                                    <Title>中兴能否扭转目前局面？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>80,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="17CFB8AD-31FE-4613-A537-C6B3AD81DB39" Type="Text" Created="2018-11-08 16:17:00 +0800" Modified="2018-11-26 13:59:21 +0800">
-                                    <Title>中国生育率是否较低？会有什么影响？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1547,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="865C058F-551C-4C2B-8130-2F1E2E850481" Type="Text" Created="2018-11-08 12:58:54 +0800" Modified="2018-11-26 13:51:21 +0800">
-                                    <Title>在中国，跨越阶层真的很难吗？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>323,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="92F63826-A022-4E43-896D-0D1821CDCB18" Type="Text" Created="2018-11-08 13:40:06 +0800" Modified="2018-11-26 13:55:44 +0800">
-                                    <Title>部分家长是否很难接受自家小孩的平庸？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>16,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="4C9D0D86-312C-492C-A3B9-A455500303DD" Type="Text" Created="2018-11-08 16:35:43 +0800" Modified="2018-11-26 15:45:53 +0800">
-                                    <Title>如何看待2018年6月14美联储加息25个基点，年内大概率还有两次；央行未跟进，超市场预期？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,187</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="29F9B6DB-1663-4A7E-BF4E-256DA003EFC2" Type="Text" Created="2018-11-08 16:17:12 +0800" Modified="2018-11-26 15:42:07 +0800">
-                                    <Title>为什么美国程序员工作比中国程序员工作轻松、加班少？</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>128,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
                         <BinderItem UUID="53844530-3C87-45E1-98AD-02CBEA1C0BCA" Type="Text" Created="2018-10-20 11:10:58 +0800" Modified="2018-12-02 13:29:37 +0800">
                             <Title>巴菲特</Title>
                             <MetaData>
@@ -2242,13 +2087,13 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="19B822B5-FDF7-42A6-ACC1-397278C2280F" Type="Text" Created="2019-01-11 12:52:56 +0800" Modified="2019-01-12 00:27:15 +0800">
+                        <BinderItem UUID="19B822B5-FDF7-42A6-ACC1-397278C2280F" Type="Text" Created="2019-01-11 12:52:56 +0800" Modified="2019-01-12 18:54:41 +0800">
                             <Title>顾子明</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,129</TextSelection>
+                                <TextSelection>152,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="50856214-6622-41AD-9FA0-DADB6FD109D6" Type="Text" Created="2019-01-11 23:38:44 +0800" Modified="2019-01-12 00:16:07 +0800">
@@ -2257,7 +2102,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2253,0</TextSelection>
+                                        <TextSelection>2491,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="1529BA5C-8A0A-492D-907E-98F9976A7864" Type="Text" Created="2019-01-12 10:47:23 +0800" Modified="2019-01-12 10:52:21 +0800">
@@ -2287,6 +2132,15 @@
                                         <TextSelection>610,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="9229C141-5779-4039-8F9F-11A242C416B8" Type="Text" Created="2019-01-13 00:20:10 +0800" Modified="2019-01-13 00:20:26 +0800">
+                                    <Title>体制</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="61A66853-E89D-4A72-B5EE-B38FDE0A266F" Type="Text" Created="2019-01-12 10:55:41 +0800" Modified="2019-01-12 10:56:24 +0800">
                                     <Title>阿里系</Title>
                                     <MetaData>
@@ -2296,22 +2150,31 @@
                                         <TextSelection>616,1</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="0D8ED276-675F-4CC1-A82A-9C1B76D891FC" Type="Text" Created="2019-01-12 11:06:33 +0800" Modified="2019-01-12 12:34:20 +0800">
+                                <BinderItem UUID="0D8ED276-675F-4CC1-A82A-9C1B76D891FC" Type="Text" Created="2019-01-12 11:06:33 +0800" Modified="2019-01-12 12:42:06 +0800">
                                     <Title>乐视</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>495,0</TextSelection>
+                                        <TextSelection>868,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="DD78531B-E684-4BD9-B61F-B4F5D29FC6E2" Type="Text" Created="2019-01-12 01:04:08 +0800" Modified="2019-01-12 01:04:46 +0800">
+                                <BinderItem UUID="CA660FE3-F8CE-4662-8639-09509A93A339" Type="Text" Created="2019-01-12 19:40:40 +0800" Modified="2019-01-13 00:10:47 +0800">
+                                    <Title>吉利</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>262,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="DD78531B-E684-4BD9-B61F-B4F5D29FC6E2" Type="Text" Created="2019-01-12 01:04:08 +0800" Modified="2019-01-12 17:32:12 +0800">
                                     <Title>房地产</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>397,0</TextSelection>
+                                        <TextSelection>3367,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="9D67728B-FB38-4410-A851-316A74A72AD2" Type="Text" Created="2019-01-12 00:27:04 +0800" Modified="2019-01-12 12:27:15 +0800">
@@ -2329,7 +2192,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>748,0</TextSelection>
+                                        <TextSelection>749,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="1BF479C1-8FB8-4D6D-9E4B-135837F2234A" Type="Text" Created="2019-01-12 11:10:45 +0800" Modified="2019-01-12 11:12:12 +0800">
@@ -2341,13 +2204,177 @@
                                         <TextSelection>965,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="E90A3860-69A1-4E70-A440-566DFCEE5332" Type="Text" Created="2019-01-12 00:30:25 +0800" Modified="2019-01-12 12:27:02 +0800">
+                                <BinderItem UUID="E90A3860-69A1-4E70-A440-566DFCEE5332" Type="Text" Created="2019-01-12 00:30:25 +0800" Modified="2019-01-12 18:42:44 +0800">
                                     <Title>美国</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2375,0</TextSelection>
+                                        <TextSelection>2376,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="1028D03F-3CD4-4D71-9FAF-22A6B6BAB7DA" Type="Text" Created="2019-01-12 18:42:37 +0800" Modified="2019-01-12 18:42:49 +0800">
+                                    <Title>石油</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>288,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="6FABBE4F-A34D-4171-9F86-ED6E380B3265" Type="Text" Created="2018-11-27 15:25:10 +0800" Modified="2018-11-27 15:25:47 +0800">
+                            <Title>sigmacore</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,10</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="302C726D-4A63-4A07-B766-10BEACDC4D13" Type="Text" Created="2018-11-08 12:17:55 +0800" Modified="2018-11-26 13:06:04 +0800">
+                                    <Title>房价真的会就这样一直涨下去吗？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1125,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5596AD70-AC81-421E-9014-994BA3619535" Type="Text" Created="2018-11-08 12:43:07 +0800" Modified="2018-11-26 14:00:17 +0800">
+                                    <Title>个人资产配置内容</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>184,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="8F3654BD-92AB-4D67-AA06-4661A1234225" Type="Text" Created="2018-11-08 12:49:44 +0800" Modified="2018-11-26 13:08:17 +0800">
+                                    <Title>一个国家如果因为经济困难偷偷印制钞票，在度过困难后将之前偷印的钱销毁是否可行？为什么？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>88,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="3BBE66F9-4265-4388-85D6-3816688E6387" Type="Text" Created="2018-11-08 13:45:37 +0800" Modified="2018-11-26 12:39:28 +0800">
+                                    <Title>如何看待17年6月至今人民币汇率暴涨？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>247,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="9796B637-4ED5-485F-80D6-43ECED7751A1" Type="Text" Created="2018-11-08 14:53:44 +0800" Modified="2018-11-26 12:33:42 +0800">
+                                    <Title>房价真的会就这样一直涨下去吗？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>189,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C9F6B3B4-B6E1-40F5-982A-CB2838C48DBC" Type="Text" Created="2018-11-08 12:40:07 +0800" Modified="2018-11-26 12:28:54 +0800">
+                                    <Title>如果房价一夜之间暴跌，会引发哪些连锁反应？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>80,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="E5E3D699-82A7-412D-80F1-581313895305" Type="Text" Created="2018-11-08 13:42:36 +0800" Modified="2018-11-26 12:30:15 +0800">
+                                    <Title>早两年买房的和现在买房的人，生活有怎样的不同？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>72,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C51A81C7-C190-43CB-B0DA-F07A77BC96A2" Type="Text" Created="2018-11-08 13:43:59 +0800" Modified="2018-11-26 12:32:25 +0800">
+                                    <Title>中国人很聪明而且小学初中高中所学的知识比美国的孩子多得多，为什么中国的学术比不上美国，究竟差在哪呢？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>148,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FFAF6257-7887-4FA2-814C-C238B8E9FFF3" Type="Text" Created="2018-11-08 13:45:12 +0800" Modified="2018-11-26 12:35:13 +0800">
+                                    <Title>50年后的2067年，我们应如何让子孙们理解当年人们对买房子并看涨房价这件事的执着与疯狂？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>51,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="298985A0-692D-4491-9B85-80B6CD4C30BB" Type="Text" Created="2018-11-08 13:47:23 +0800" Modified="2018-11-26 13:04:11 +0800">
+                                    <Title>中国2018的经济何去何从？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>110,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="29D69798-D02F-47D6-B90F-F79609878712" Type="Text" Created="2018-11-08 13:48:24 +0800" Modified="2018-11-26 13:04:52 +0800">
+                                    <Title>中兴能否扭转目前局面？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>80,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="17CFB8AD-31FE-4613-A537-C6B3AD81DB39" Type="Text" Created="2018-11-08 16:17:00 +0800" Modified="2018-11-26 13:59:21 +0800">
+                                    <Title>中国生育率是否较低？会有什么影响？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>635,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="865C058F-551C-4C2B-8130-2F1E2E850481" Type="Text" Created="2018-11-08 12:58:54 +0800" Modified="2018-11-26 13:51:21 +0800">
+                                    <Title>在中国，跨越阶层真的很难吗？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>439,224</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="92F63826-A022-4E43-896D-0D1821CDCB18" Type="Text" Created="2018-11-08 13:40:06 +0800" Modified="2018-11-26 13:55:44 +0800">
+                                    <Title>部分家长是否很难接受自家小孩的平庸？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>16,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="4C9D0D86-312C-492C-A3B9-A455500303DD" Type="Text" Created="2018-11-08 16:35:43 +0800" Modified="2018-11-26 15:45:53 +0800">
+                                    <Title>如何看待2018年6月14美联储加息25个基点，年内大概率还有两次；央行未跟进，超市场预期？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>89,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="29F9B6DB-1663-4A7E-BF4E-256DA003EFC2" Type="Text" Created="2018-11-08 16:17:12 +0800" Modified="2018-11-26 15:42:07 +0800">
+                                    <Title>为什么美国程序员工作比中国程序员工作轻松、加班少？</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>128,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -7470,6 +7497,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="5A77FBDD-E782-4009-85C1-87E546226974" Type="Text" Created="2019-01-12 19:40:26 +0800" Modified="2019-01-12 19:40:30 +0800">
+                    <Title>吉利</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -7609,13 +7645,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="5960" Characters="11165" Date="2019-01-12 00:56:01 +0800"></PreviousSession>
+        <PreviousSession Words="64" Characters="125" Date="2019-01-13 00:02:04 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-01-12 00:00:00 +0800">
-        <DraftWordCount>5960</DraftWordCount>
-        <DraftCharCount>11165</DraftCharCount>
-        <OtherWordCount>209</OtherWordCount>
-        <OtherCharCount>405</OtherCharCount>
+    <RecentWritingHistory Date="2019-01-13 00:00:00 +0800">
+        <DraftWordCount>64</DraftWordCount>
+        <DraftCharCount>125</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>5</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
