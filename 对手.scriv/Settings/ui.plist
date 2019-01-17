@@ -263,8 +263,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {381, 760}}</string>
-		<string>{{382, 0}, {898, 760}}</string>
+		<string>{{0, 0}, {362, 760}}</string>
+		<string>{{363, 0}, {917, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -311,7 +311,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{552, 0}, {552, 730}}</string>
+		<string>{{0, 0}, {704, 224}}</string>
 	</array>
 	<key>exportFilesFormat</key>
 	<integer>2</integer>
@@ -336,7 +336,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {246, 709}}</string>
+		<string>{{0, 0}, {245, 709}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -355,7 +355,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>53 35 1216 742 0 0 1280 800 </string>
+	<string>86 -127 1216 741 0 0 1280 777 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
