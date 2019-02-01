@@ -8032,7 +8032,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="13" Characters="24" Date="2019-02-01 10:22:05 +0800"></PreviousSession>
+        <PreviousSession Words="13" Characters="24" Date="2019-02-01 10:52:35 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-02-01 00:00:00 +0800">
         <DraftWordCount>13</DraftWordCount>
