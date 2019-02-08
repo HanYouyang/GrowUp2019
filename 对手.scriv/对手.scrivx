@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-02-06 00:32:06 +0800" ModID="E0D39943-65EF-4F5A-A1C0-6E16885CA391">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-02-08 15:19:13 +0800" ModID="3E25C201-B0E5-4267-AB4E-EBD89108E211">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-01-17 18:10:50 +0800">
             <Title>自己~狡兔+用对手水平定义自己</Title>
@@ -511,7 +511,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>422,0</TextSelection>
+                                        <TextSelection>123,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="F750DD2B-EF87-4918-9B64-9A65A2256516" Type="Text" Created="2019-02-05 23:31:11 +0800" Modified="2019-02-05 23:39:34 +0800">
@@ -520,7 +520,34 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>195,0</TextSelection>
+                                        <TextSelection>194,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B7D5AE02-DCBB-4367-8291-29B8B715A81C" Type="Text" Created="2019-02-08 11:04:45 +0800" Modified="2019-02-08 15:17:11 +0800">
+                                    <Title>赢-“英雄不问出处”</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>544,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="1FBBA835-A1CA-4C47-85E3-25989FA831E6" Type="Text" Created="2019-02-08 14:03:05 +0800" Modified="2019-02-08 15:19:13 +0800">
+                                    <Title>手机-工作和现金流都不在手机里</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>31,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C8CF774E-BA5F-468D-952E-C2EE012218EC" Type="Text" Created="2019-02-08 14:08:56 +0800" Modified="2019-02-08 14:17:20 +0800">
+                                    <Title>上海-为什么去上海</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>111,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="AE87ED6E-3EF4-4B06-806B-2F6BEE110CF4" Type="Text" Created="2018-12-27 23:27:06 +0800" Modified="2019-01-31 23:16:51 +0800">
@@ -845,13 +872,13 @@
                                         <TextSelection>651,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="5C1828D5-3F77-4445-B4EC-376AE88F4D5F" Type="Text" Created="2019-01-31 11:22:17 +0800" Modified="2019-01-31 23:26:32 +0800">
-                                    <Title>自卑-高考与考研</Title>
+                                <BinderItem UUID="5C1828D5-3F77-4445-B4EC-376AE88F4D5F" Type="Text" Created="2019-01-31 11:22:17 +0800" Modified="2019-02-08 14:12:10 +0800">
+                                    <Title>自卑-高考与考研+英雄不问出处</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>168,0</TextSelection>
+                                        <TextSelection>858,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="BDD4698D-4BA1-42CA-BF3A-DF93979B09C8" Type="Text" Created="2018-11-20 18:49:20 +0800" Modified="2019-02-01 11:36:18 +0800">
@@ -2899,7 +2926,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2,0</TextSelection>
+                                        <TextSelection>143,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="25763842-B2C7-4C30-AED8-5F9E8E93B079" Type="Text" Created="2019-02-06 00:16:37 +0800" Modified="2019-02-06 00:32:06 +0800">
@@ -8160,13 +8187,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="515" Characters="948" Date="2019-02-06 00:16:02 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2019-02-08 09:14:27 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-02-06 00:00:00 +0800">
-        <DraftWordCount>515</DraftWordCount>
-        <DraftCharCount>948</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2019-02-08 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>549</OtherWordCount>
+        <OtherCharCount>968</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
