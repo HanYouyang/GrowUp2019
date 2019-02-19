@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-02-19 00:10:36 +0800" ModID="D6BFCC81-E69E-4882-AFE8-81F51BD3C404">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-02-19 10:16:48 +0800" ModID="61AD18AD-556E-4515-99D0-C22D9B964A2B">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-01-17 18:10:50 +0800">
             <Title>自己~狡兔+用对手水平定义自己</Title>
@@ -3277,13 +3277,13 @@
                                         <TextSelection>47,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="E90A3860-69A1-4E70-A440-566DFCEE5332" Type="Text" Created="2019-01-12 00:30:25 +0800" Modified="2019-02-09 10:22:03 +0800">
+                                <BinderItem UUID="E90A3860-69A1-4E70-A440-566DFCEE5332" Type="Text" Created="2019-01-12 00:30:25 +0800" Modified="2019-02-19 10:15:08 +0800">
                                     <Title>美国</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>222,0</TextSelection>
+                                        <TextSelection>2893,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="1028D03F-3CD4-4D71-9FAF-22A6B6BAB7DA" Type="Text" Created="2019-01-12 18:42:37 +0800" Modified="2019-02-09 11:04:26 +0800">
@@ -3301,7 +3301,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>355,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="9D67728B-FB38-4410-A851-316A74A72AD2" Type="Text" Created="2019-01-12 00:27:04 +0800" Modified="2019-01-12 12:27:15 +0800">
@@ -3338,6 +3338,15 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>588,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="198C7DCC-E907-4D15-9D2B-92352E6612D3" Type="Text" Created="2019-02-19 10:16:31 +0800" Modified="2019-02-19 10:16:48 +0800">
+                                            <Title>香港</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -3436,13 +3445,13 @@
                                         <TextSelection>518,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="1DDF878D-2B2B-475B-AF2B-7BDCFC1EADEF" Type="Text" Created="2019-02-09 10:21:04 +0800" Modified="2019-02-09 10:22:12 +0800">
+                                        <BinderItem UUID="1DDF878D-2B2B-475B-AF2B-7BDCFC1EADEF" Type="Text" Created="2019-02-09 10:21:04 +0800" Modified="2019-02-19 09:04:34 +0800">
                                             <Title>支付宝</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>221,0</TextSelection>
+                                                <TextSelection>251,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="6642E409-C081-44CC-9253-3FFF67883E21" Type="Text" Created="2019-01-12 00:56:17 +0800" Modified="2019-02-09 09:33:20 +0800">
@@ -8524,11 +8533,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="358" Characters="655" Date="2019-02-19 00:09:14 +0800"></PreviousSession>
+        <PreviousSession Words="632" Characters="1191" Date="2019-02-19 00:09:14 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-02-19 00:00:00 +0800">
-        <DraftWordCount>358</DraftWordCount>
-        <DraftCharCount>655</DraftCharCount>
+        <DraftWordCount>632</DraftWordCount>
+        <DraftCharCount>1191</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
