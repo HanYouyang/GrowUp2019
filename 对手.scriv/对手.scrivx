@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-02-21 18:45:24 +0800" ModID="FE4CB0AC-241D-4EC7-A0E7-74B79C9281FA">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-02-21 23:13:10 +0800" ModID="38EF7088-EB4A-404A-A7D0-A6C638FF0289">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-01-17 18:10:50 +0800">
             <Title>自己~狡兔+用对手水平定义自己</Title>
@@ -3261,16 +3261,25 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>13482,50</TextSelection>
+                                                <TextSelection>15854,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="DB9BCFC2-A5EF-454F-B198-41FE9823F454" Type="Text" Created="2018-02-25 22:33:37 +0800" Modified="2019-02-20 13:13:01 +0800">
-                                            <Title>国学的复兴</Title>
+                                        <BinderItem UUID="DB9BCFC2-A5EF-454F-B198-41FE9823F454" Type="Text" Created="2018-02-25 22:33:37 +0800" Modified="2019-02-21 19:34:13 +0800">
+                                            <Title>国学的复兴-文化自觉-养心背诵</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>378,0</TextSelection>
+                                                <TextSelection>10,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="97CD299F-25CB-4CDE-9937-B811256BE9F8" Type="Text" Created="2018-02-25 22:33:23 +0800" Modified="2019-02-21 23:13:07 +0800">
+                                            <Title>禅宗的智慧-两种意义+普敬</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>27848,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="CABB2AB8-B862-4746-9FEF-E224D1512451" Type="Text" Created="2019-02-20 14:45:49 +0800" Modified="2019-02-20 14:47:54 +0800">
@@ -3309,15 +3318,6 @@
                                                 <TextSelection>602,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="97CD299F-25CB-4CDE-9937-B811256BE9F8" Type="Text" Created="2018-02-25 22:33:23 +0800" Modified="2019-02-20 13:13:29 +0800">
-                                            <Title>禅宗的智慧</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>27494,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
                                         <BinderItem UUID="2CA80EE1-B830-46A8-8E6B-9053E53B7E65" Type="Text" Created="2019-02-20 14:10:55 +0800" Modified="2019-02-20 14:41:39 +0800">
                                             <Title>上海玉佛禅寺</Title>
                                             <MetaData>
@@ -3333,7 +3333,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>345,0</TextSelection>
+                                                <TextSelection>672,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -8854,11 +8854,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="57" Characters="114" Date="2019-02-21 00:20:47 +0800"></PreviousSession>
+        <PreviousSession Words="58" Characters="146" Date="2019-02-21 00:20:47 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-02-21 00:00:00 +0800">
-        <DraftWordCount>57</DraftWordCount>
-        <DraftCharCount>106</DraftCharCount>
+        <DraftWordCount>58</DraftWordCount>
+        <DraftCharCount>138</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
