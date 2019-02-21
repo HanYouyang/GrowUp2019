@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-02-20 17:28:32 +0800" ModID="F1E5F1F7-0B91-41EB-AEF5-405F7404035D">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-02-21 17:52:08 +0800" ModID="E8F9CE3B-24E1-472F-BA8E-738773D3BA05">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-01-17 18:10:50 +0800">
             <Title>自己~狡兔+用对手水平定义自己</Title>
@@ -1689,6 +1689,15 @@
                                 <TextSelection>21,0</TextSelection>
                             </TextSettings>
                             <Children>
+                                <BinderItem UUID="63922CA4-8DE0-41D4-ACEE-533BC6A51A63" Type="Text" Created="2019-02-20 20:57:08 +0800" Modified="2019-02-20 23:03:26 +0800">
+                                    <Title>54题目</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>295,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="785BABE1-7D98-495D-867E-4FFA0BF35440" Type="Text" Created="2019-02-09 12:52:56 +0800" Modified="2019-02-09 12:53:09 +0800">
                                     <Title>写作点</Title>
                                     <MetaData>
@@ -3181,67 +3190,67 @@
                                                         <TextSelection>5866,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="6D34613E-8FB3-42E1-9DB2-AF3C5F9BB235" Type="Text" Created="2019-02-20 15:11:59 +0800" Modified="2019-02-20 17:28:32 +0800">
+                                                <BinderItem UUID="6D34613E-8FB3-42E1-9DB2-AF3C5F9BB235" Type="Text" Created="2019-02-20 15:11:59 +0800" Modified="2019-02-20 17:31:16 +0800">
                                                     <Title>《红楼梦》与中国文化命运</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>3833,0</TextSelection>
+                                                        <TextSelection>5684,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="49613B15-3ADA-47AA-B7ED-18056C0575CD" Type="Text" Created="2019-02-20 16:40:46 +0800" Modified="2019-02-20 16:45:42 +0800">
+                                                <BinderItem UUID="49613B15-3ADA-47AA-B7ED-18056C0575CD" Type="Text" Created="2019-02-20 16:40:46 +0800" Modified="2019-02-20 18:46:03 +0800">
                                                     <Title>《红楼梦》与中国文化命运（二）</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>198,0</TextSelection>
+                                                        <TextSelection>11153,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="2FB13551-00DD-425F-BED5-AA456DCAE2B7" Type="Text" Created="2019-02-20 16:19:43 +0800" Modified="2019-02-20 16:21:57 +0800">
+                                                <BinderItem UUID="83DC5E6B-00D2-4D08-A768-DCC3E429EB3A" Type="Text" Created="2019-02-20 16:28:40 +0800" Modified="2019-02-20 23:39:07 +0800">
+                                                    <Title>《红楼梦》之秦可卿</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>9147,108</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="6076D41E-A59B-4DF3-8C31-88A669ABD6FD" Type="Text" Created="2019-02-20 16:25:43 +0800" Modified="2019-02-21 00:14:02 +0800">
+                                                    <Title>《红楼梦》权欲和精明的结合——王熙凤</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>9236,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="05501BAE-1DD8-4C84-A08A-91C54512DCED" Type="Text" Created="2019-02-20 16:38:09 +0800" Modified="2019-02-21 01:39:14 +0800">
+                                                    <Title>《红楼梦》美德与事功高度融合，人情练达却人性虚无化者 ——金陵十二钗之薛宝钗</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>10766,81</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="DFA5BC7C-8BA9-4936-9AB8-147B7AF96525" Type="Text" Created="2019-02-20 16:21:54 +0800" Modified="2019-02-21 17:51:49 +0800">
+                                                    <Title>《红楼梦》之海棠诗社比诗情，群芳花艳宝玉护</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>7862,196</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="2FB13551-00DD-425F-BED5-AA456DCAE2B7" Type="Text" Created="2019-02-20 16:19:43 +0800" Modified="2019-02-21 17:52:08 +0800">
                                                     <Title>《红楼梦》金陵十二钗之史湘云</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>171,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="DFA5BC7C-8BA9-4936-9AB8-147B7AF96525" Type="Text" Created="2019-02-20 16:21:54 +0800" Modified="2019-02-20 16:25:22 +0800">
-                                                    <Title>《红楼梦》之海棠诗社比诗情，群芳花艳宝玉护</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>17,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="6076D41E-A59B-4DF3-8C31-88A669ABD6FD" Type="Text" Created="2019-02-20 16:25:43 +0800" Modified="2019-02-20 16:28:28 +0800">
-                                                    <Title>《红楼梦》 权欲和精明的结合——王熙凤</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>9242,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="83DC5E6B-00D2-4D08-A768-DCC3E429EB3A" Type="Text" Created="2019-02-20 16:28:40 +0800" Modified="2019-02-20 16:38:13 +0800">
-                                                    <Title>《红楼梦》之秦可卿</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>9628,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="05501BAE-1DD8-4C84-A08A-91C54512DCED" Type="Text" Created="2019-02-20 16:38:09 +0800" Modified="2019-02-20 16:40:21 +0800">
-                                                    <Title>《红楼梦》美德与事功高度融合，人情练达却人性虚无化者 ——金陵十二钗之薛宝钗</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>11075,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -8697,6 +8706,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="46DB3C3A-5B92-4F3D-9B84-74E5CA1DD5B2" Type="Text" Created="2019-02-20 20:55:19 +0800" Modified="2019-02-20 20:55:50 +0800">
+                    <Title>1~54写作题目</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>88,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -8836,13 +8854,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="60474" Characters="100715" Date="2019-02-20 08:11:22 +0800"></PreviousSession>
+        <PreviousSession Words="-16" Characters="-35" Date="2019-02-21 00:20:47 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-02-20 00:00:00 +0800">
-        <DraftWordCount>60474</DraftWordCount>
-        <DraftCharCount>100715</DraftCharCount>
-        <OtherWordCount>1417</OtherWordCount>
-        <OtherCharCount>2424</OtherCharCount>
+    <RecentWritingHistory Date="2019-02-21 00:00:00 +0800">
+        <DraftWordCount>-16</DraftWordCount>
+        <DraftCharCount>-43</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
