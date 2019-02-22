@@ -268,8 +268,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {384, 760}}</string>
-		<string>{{385, 0}, {895, 760}}</string>
+		<string>{{0, 0}, {352, 760}}</string>
+		<string>{{353, 0}, {927, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
