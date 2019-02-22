@@ -6,7 +6,7 @@
 	<dict>
 		<key>46A92DD8-CDA4-428A-A446-507345819A04</key>
 		<array>
-			<string>8050CB21-2779-4296-8C3C-3776F05438DF</string>
+			<string>41EB119B-8B5E-4963-A248-BE6627D9B6B1</string>
 		</array>
 	</dict>
 	<key>NotesScaleFactor</key>
@@ -268,8 +268,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {317, 760}}</string>
-		<string>{{318, 0}, {962, 760}}</string>
+		<string>{{0, 0}, {384, 760}}</string>
+		<string>{{385, 0}, {895, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -362,7 +362,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>64 36 1216 741 0 0 1280 777 </string>
+	<string>1024 619 1216 742 0 0 1280 800 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -372,7 +372,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>315</real>
+			<real>382</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
