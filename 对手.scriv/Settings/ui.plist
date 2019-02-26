@@ -6,7 +6,7 @@
 	<dict>
 		<key>46A92DD8-CDA4-428A-A446-507345819A04</key>
 		<array>
-			<string>41EB119B-8B5E-4963-A248-BE6627D9B6B1</string>
+			<string>7F652F0F-B280-4A8C-A679-DEBC2D8F4ECC</string>
 		</array>
 	</dict>
 	<key>NotesScaleFactor</key>
@@ -307,7 +307,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>0</integer>
+		<integer>1</integer>
 	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
@@ -372,7 +372,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>230</real>
+			<real>316</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
