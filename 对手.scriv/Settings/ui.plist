@@ -6,7 +6,7 @@
 	<dict>
 		<key>46A92DD8-CDA4-428A-A446-507345819A04</key>
 		<array>
-			<string>7F652F0F-B280-4A8C-A679-DEBC2D8F4ECC</string>
+			<string>49613B15-3ADA-47AA-B7ED-18056C0575CD</string>
 		</array>
 	</dict>
 	<key>NotesScaleFactor</key>
@@ -268,8 +268,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {495.5, 760}}</string>
-		<string>{{496.5, 0}, {783.5, 760}}</string>
+		<string>{{0, 0}, {363, 760}}</string>
+		<string>{{364, 0}, {916, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -307,7 +307,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>1</integer>
+		<integer>0</integer>
 	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
@@ -372,7 +372,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>316</real>
+			<real>493.5</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
