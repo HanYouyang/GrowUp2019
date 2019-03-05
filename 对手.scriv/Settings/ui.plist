@@ -268,8 +268,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {363, 760}}</string>
-		<string>{{364, 0}, {916, 760}}</string>
+		<string>{{0, 0}, {417, 760}}</string>
+		<string>{{418, 0}, {862, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -372,7 +372,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>493.5</real>
+			<real>230</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
@@ -381,7 +381,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 648}, {619.33333333333337, 449.33333333333326}}</string>
+	<string>{{0, 0}, {600.66666666666663, 449.33333333333331}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
