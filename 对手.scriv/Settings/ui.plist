@@ -268,8 +268,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {365.5, 760}}</string>
-		<string>{{366.5, 0}, {913.5, 760}}</string>
+		<string>{{0, 0}, {413.5, 760}}</string>
+		<string>{{414.5, 0}, {865.5, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -294,6 +294,11 @@
 	</dict>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
+		<key>AB5D6DDA-EA59-4344-99FC-922ED1EF9FF2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>CCB93021-FA76-4928-AAFF-A6F19AB560F0</key>
 		<dict>
 			<key>Row</key>
