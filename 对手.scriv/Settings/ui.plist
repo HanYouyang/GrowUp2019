@@ -367,7 +367,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>2624 -285 1216 742 1280 -640 2560 1417 </string>
+	<string>1344 35 1216 742 0 0 2560 1440 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
