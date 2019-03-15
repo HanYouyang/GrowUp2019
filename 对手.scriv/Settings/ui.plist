@@ -304,6 +304,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>F883C9C0-9FCA-48F5-B1ED-E901C723F82D</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>Project</key>
 		<dict>
 			<key>Row</key>
@@ -367,7 +372,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1344 35 1216 742 0 0 2560 1440 </string>
+	<string>1344 35 1216 742 0 0 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
