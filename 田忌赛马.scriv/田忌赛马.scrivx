@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-03-20 09:00:23 +0800" ModID="590A7592-0D4C-4AC6-89DE-AE7A2DB97D5E">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-03-20 16:32:17 +0800" ModID="CB4F1487-2AC1-44D4-9409-92F353C569C2">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-02-23 14:02:19 +0800">
             <Title>改造世界~生活决定意识</Title>
@@ -1078,12 +1078,12 @@
                                                 <TextSelection>17,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="AC871760-7CA6-4E55-B542-AAC4928423BC" Type="Text" Created="2019-03-12 21:21:32 +0800" Modified="2019-03-12 21:21:46 +0800">
+                                        <BinderItem UUID="AC871760-7CA6-4E55-B542-AAC4928423BC" Type="Text" Created="2019-03-12 21:21:32 +0800" Modified="2019-03-20 09:38:58 +0800">
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>134,0</TextSelection>
+                                                <TextSelection>596,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="E2C8D7D5-7337-4E50-A24D-B1ED7109242B" Type="Text" Created="2019-03-13 09:55:36 +0800" Modified="2019-03-13 10:20:11 +0800">
@@ -3150,16 +3150,16 @@
                                                 <TextSelection>20,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="80015600-40B6-49A8-A14F-4BAA5CBE06E8" Type="Text" Created="2019-02-01 08:37:45 +0800" Modified="2019-02-13 00:33:11 +0800">
+                                        <BinderItem UUID="80015600-40B6-49A8-A14F-4BAA5CBE06E8" Type="Text" Created="2019-02-01 08:37:45 +0800" Modified="2019-03-20 16:32:17 +0800">
                                             <Title>“疯狂拯救”李阳</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>181,0</TextSelection>
+                                                <TextSelection>28,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="51676486-A2C3-46F0-9BF8-B5AC4A14D423" Type="Text" Created="2019-02-24 14:30:24 +0800" Modified="2019-02-24 14:46:15 +0800">
+                                        <BinderItem UUID="51676486-A2C3-46F0-9BF8-B5AC4A14D423" Type="Text" Created="2019-02-24 14:30:24 +0800" Modified="2019-03-20 16:32:17 +0800">
                                             <Title>“全世界同”自恋</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -3725,12 +3725,13 @@
                                         <TextSelection>817,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="1FF7594B-A489-4359-931E-F6F159B0413E" Type="Text" Created="2019-03-19 22:17:06 +0800" Modified="2019-03-19 22:17:06 +0800">
+                                <BinderItem UUID="1FF7594B-A489-4359-931E-F6F159B0413E" Type="Text" Created="2019-03-19 22:17:06 +0800" Modified="2019-03-20 16:30:10 +0800">
+                                    <Title>现代化的完成-台湾人民和韩国人民生活怎么样呢？</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>728,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -6337,7 +6338,7 @@
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
+                                                        <TextSelection>49,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -10219,8 +10220,8 @@
     <RecentWritingHistory Date="2019-03-20 00:00:00 +0800">
         <DraftWordCount>8</DraftWordCount>
         <DraftCharCount>98</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>463</OtherWordCount>
+        <OtherCharCount>803</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
