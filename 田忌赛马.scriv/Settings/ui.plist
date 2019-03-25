@@ -268,8 +268,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {347.5, 760}}</string>
-		<string>{{348.5, 0}, {931.5, 760}}</string>
+		<string>{{0, 0}, {374, 760}}</string>
+		<string>{{375, 0}, {905, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -372,7 +372,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>-896 355 1216 742 0 0 2560 1417 </string>
+	<string>704 214 1216 742 1280 -640 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -395,7 +395,7 @@
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1.5</real>
+		<real>2</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>
