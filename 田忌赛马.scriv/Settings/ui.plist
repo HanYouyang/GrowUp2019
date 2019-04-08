@@ -139,51 +139,6 @@
 			<key>WindowFrame</key>
 			<string>402 208 475 522 0 0 1280 777 </string>
 		</dict>
-		<key>6DFF1CFB-8C89-4018-B1CB-A8EEFD1CEAFB</key>
-		<dict>
-			<key>BinderUUID</key>
-			<string>6DFF1CFB-8C89-4018-B1CB-A8EEFD1CEAFB</string>
-			<key>CurrentMetaData</key>
-			<integer>-1</integer>
-			<key>MainPaneWidth</key>
-			<real>475</real>
-			<key>ProjectBookmarksSplitInfo</key>
-			<array>
-				<string>{{0, 0}, {225, 495}}</string>
-				<string>{{235, 0}, {443, 495}}</string>
-			</array>
-			<key>ProjectBookmarksVisible</key>
-			<false/>
-			<key>ShowsFormatBar</key>
-			<true/>
-			<key>ShowsMetaData</key>
-			<false/>
-			<key>SplitInfo</key>
-			<array>
-				<string>{{0, 277}, {475, 167}}</string>
-			</array>
-			<key>TextSettings</key>
-			<dict>
-				<key>hasMultiplePages</key>
-				<false/>
-				<key>isRulerVisible</key>
-				<false/>
-				<key>lineNumberingInterval</key>
-				<integer>1</integer>
-				<key>showsLineNumbers</key>
-				<false/>
-				<key>textFocusMode</key>
-				<integer>0</integer>
-				<key>textScaleFactor</key>
-				<real>1.5</real>
-				<key>usesFacingPages</key>
-				<false/>
-				<key>usesTypewriterScrolling</key>
-				<false/>
-			</dict>
-			<key>WindowFrame</key>
-			<string>805 255 475 522 0 0 1280 777 </string>
-		</dict>
 		<key>912826D8-026A-45B1-8924-7F26623F78D4</key>
 		<dict>
 			<key>BinderUUID</key>
@@ -268,8 +223,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {561, 1400}}</string>
-		<string>{{562, 0}, {1998, 1400}}</string>
+		<string>{{0, 0}, {468.5, 760}}</string>
+		<string>{{469.5, 0}, {810.5, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -353,7 +308,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {256, 750}}</string>
+		<string>{{0, 0}, {244, 710}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -372,7 +327,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>-736 35 1216 742 0 0 1280 777 </string>
+	<string>56 36 1216 741 0 0 1280 777 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -382,7 +337,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>345</real>
+			<real>230</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
@@ -391,11 +346,11 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 580}, {566.66666666666663, 449.33333333333326}}</string>
+	<string>{{0, 0}, {530, 449.33333333333331}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>3</real>
+		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>
