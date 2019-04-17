@@ -6,7 +6,7 @@
 	<dict>
 		<key>46A92DD8-CDA4-428A-A446-507345819A04</key>
 		<array>
-			<string>B0279873-B7E1-43F0-84F5-9C8D02B582B3</string>
+			<string>318E9530-0D66-43D4-B070-38465A052FD8</string>
 		</array>
 	</dict>
 	<key>NotesScaleFactor</key>
@@ -223,8 +223,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {457, 760}}</string>
-		<string>{{458, 0}, {822, 760}}</string>
+		<string>{{0, 0}, {457, 719}}</string>
+		<string>{{458, 0}, {758, 719}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -272,7 +272,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>1</integer>
+		<integer>96</integer>
 	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
@@ -327,7 +327,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1323 35 1216 742 0 0 2560 1417 </string>
+	<string>63 36 1216 741 0 0 1280 777 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -337,7 +337,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>567</real>
+			<real>455</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
@@ -346,7 +346,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 308.66666666666669}, {238, 224.66666666666669}}</string>
+	<string>{{0, 2517.3333333333335}, {495.33333333333331, 422}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
