@@ -223,8 +223,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {460.5, 760}}</string>
-		<string>{{461.5, 0}, {818.5, 760}}</string>
+		<string>{{0, 0}, {480.5, 760}}</string>
+		<string>{{481.5, 0}, {798.5, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -327,7 +327,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1323 35 1216 742 0 0 2560 1417 </string>
+	<string>1323 35 1216 742 0 0 2560 1440 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
