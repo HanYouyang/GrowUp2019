@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-04-28 08:57:42 +0800" ModID="9969ED05-ED62-4615-AEC7-01AA0A1E2A86">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-04-28 18:29:39 +0800" ModID="8CE72D30-8E66-40BE-A3A7-CCF55DFA261D">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-02-23 15:54:23 +0800">
             <Title>解释世界~生产力和生产关系</Title>
@@ -4098,31 +4098,49 @@
                                         <TextSelection>2073,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="150724A9-8308-4334-A4D3-3DFC2C1382A4" Type="Text" Created="2018-05-27 21:45:46 +0800" Modified="2019-02-22 11:07:58 +0800">
+                                <BinderItem UUID="150724A9-8308-4334-A4D3-3DFC2C1382A4" Type="Text" Created="2018-05-27 21:45:46 +0800" Modified="2019-04-28 17:41:33 +0800">
                                     <Title>魔鬼经济学2</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5710,0</TextSelection>
+                                        <TextSelection>332,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B1E9B514-CAAE-43F5-99D8-A1220A537865" Type="Text" Created="2018-05-29 14:12:42 +0800" Modified="2019-02-22 11:22:34 +0800">
+                                <BinderItem UUID="B1E9B514-CAAE-43F5-99D8-A1220A537865" Type="Text" Created="2018-05-29 14:12:42 +0800" Modified="2019-04-28 17:42:09 +0800">
                                     <Title>魔鬼经济学3</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9852,0</TextSelection>
+                                        <TextSelection>9644,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="3A25075E-6596-4255-80F5-71256219E9DD" Type="Text" Created="2019-03-15 16:56:54 +0800" Modified="2019-03-16 09:45:26 +0800">
-                                    <Title>How to Be Happy (Ep. 345)</Title>
+                                <BinderItem UUID="42503575-9329-4082-A83F-3C8FBDD8B58C" Type="Text" Created="2019-04-28 16:41:13 +0800" Modified="2019-04-28 17:00:31 +0800">
+                                    <Title>1.The Dangers of Safety</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>246,0</TextSelection>
+                                        <TextSelection>314,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="3A25075E-6596-4255-80F5-71256219E9DD" Type="Text" Created="2019-03-15 16:56:54 +0800" Modified="2019-04-28 16:41:40 +0800">
+                                    <Title>345.How to Be Happy</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>188,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="6252FAA7-EF8F-4688-999D-29A65ED55CCF" Type="Text" Created="2019-04-28 16:57:00 +0800" Modified="2019-04-28 17:01:34 +0800">
+                                    <Title>368.Where Do Good Ideas Come From?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>25,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="EAFCE49B-B828-439D-B877-6A619ED1D93E" Type="Text" Created="2019-03-15 18:03:33 +0800" Modified="2019-03-15 20:50:34 +0800">
@@ -8333,7 +8351,7 @@
                                                         <TextSelection>94,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="F0CD4022-93EA-49B1-A3C3-40691ED75247" Type="Text" Created="2019-04-19 11:34:20 +0800" Modified="2019-04-23 11:49:13 +0800">
+                                                <BinderItem UUID="F0CD4022-93EA-49B1-A3C3-40691ED75247" Type="Text" Created="2019-04-19 11:34:20 +0800" Modified="2019-04-28 18:29:39 +0800">
                                                     <Title>细节题</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -8598,7 +8616,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>22,0</TextSelection>
+                                                <TextSelection>38,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -10473,6 +10491,16 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="A03886F6-A82D-46A8-909B-BF914749E6FB" Type="Text" Created="2019-04-28 16:40:36 +0800" Modified="2019-04-28 16:40:36 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -10611,13 +10639,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-04-28 00:00:47 +0800"/>
+        <PreviousSession Words="144" Characters="394" Date="2019-04-28 00:00:47 +0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-04-28 00:00:00 +0800">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>4</OtherWordCount>
-        <OtherCharCount>12</OtherCharCount>
+        <DraftWordCount>144</DraftWordCount>
+        <DraftCharCount>394</DraftCharCount>
+        <OtherWordCount>19</OtherWordCount>
+        <OtherCharCount>41</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
