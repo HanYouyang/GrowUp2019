@@ -329,5 +329,8 @@
     <Day dwc="4" dcc="50" dtwc="1042437" owc="407" occ="2289" dtcc="1922003">2019-04-21</Day>
     <Day dwc="0" dcc="0" dtwc="1042438" owc="230" occ="496" dtcc="1922003">2019-04-22</Day>
     <Day dwc="0" dcc="0" dtwc="1042437" owc="32" occ="62" dtcc="1922003">2019-04-23</Day>
-    <Day dwc="0" dcc="0" owc="-7" occ="-11">2019-04-28</Day>
+    <Day dwc="144" dcc="394" dtwc="1042580" owc="33" occ="69" dtcc="1922397">2019-04-28</Day>
+    <Day dwc="0" dcc="0" dtwc="1042580" owc="101" occ="232" dtcc="1922397">2019-04-29</Day>
+    <Day dwc="23" dcc="42" dtwc="1042603" owc="24" occ="38" dtcc="1922439">2019-04-30</Day>
+    <Day dwc="0" dcc="3" owc="0" occ="0">2019-05-01</Day>
 </WritingHistory>

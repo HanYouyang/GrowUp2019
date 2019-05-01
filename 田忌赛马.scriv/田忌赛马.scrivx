@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-04-28 22:13:24 +0800" ModID="376A577B-0E0B-4C46-908D-EAEF9515BC5E">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-05-01 10:18:36 +0800" ModID="C9B04B1E-10B7-41F7-8D6D-F29E4B7DD9F0">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-02-23 15:54:23 +0800">
             <Title>解释世界~生产力和生产关系</Title>
@@ -4125,13 +4125,13 @@
                                         <TextSelection>314,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="C2729FDD-EBC5-4B5A-BF56-D38F3B1E91E2" Type="Text" Created="2019-04-28 22:13:06 +0800" Modified="2019-04-28 22:13:21 +0800">
+                                <BinderItem UUID="C2729FDD-EBC5-4B5A-BF56-D38F3B1E91E2" Type="Text" Created="2019-04-28 22:13:06 +0800" Modified="2019-05-01 09:43:58 +0800">
                                     <Title>2.Is America’s Obesity Epidemic For Real?</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>176,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="3A25075E-6596-4255-80F5-71256219E9DD" Type="Text" Created="2019-03-15 16:56:54 +0800" Modified="2019-04-28 16:41:40 +0800">
@@ -8324,13 +8324,13 @@
                                                 <TextSelection>501,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="C0D17356-FBED-437F-871E-D03A84601BA0" Type="Text" Created="2019-03-11 22:14:49 +0800" Modified="2019-04-19 11:29:53 +0800">
+                                        <BinderItem UUID="C0D17356-FBED-437F-871E-D03A84601BA0" Type="Text" Created="2019-03-11 22:14:49 +0800" Modified="2019-05-01 10:18:36 +0800">
                                             <Title>阅读</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>50,0</TextSelection>
+                                                <TextSelection>48,0</TextSelection>
                                             </TextSettings>
                                             <Children>
                                                 <BinderItem UUID="16A92241-0BB8-42B9-9A86-7D1DC9EF8735" Type="Text" Created="2019-04-11 22:40:35 +0800" Modified="2019-04-21 10:52:51 +0800">
@@ -8360,13 +8360,22 @@
                                                         <TextSelection>94,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="F0CD4022-93EA-49B1-A3C3-40691ED75247" Type="Text" Created="2019-04-19 11:34:20 +0800" Modified="2019-04-28 18:29:39 +0800">
+                                                <BinderItem UUID="F0CD4022-93EA-49B1-A3C3-40691ED75247" Type="Text" Created="2019-04-19 11:34:20 +0800" Modified="2019-05-01 10:15:53 +0800">
                                                     <Title>细节题</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>343,0</TextSelection>
+                                                        <TextSelection>622,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="6E071E9F-BED0-40C8-90A6-310BC6B8504A" Type="Text" Created="2019-04-29 22:19:27 +0800" Modified="2019-04-29 22:28:48 +0800">
+                                                    <Title>句子功能题</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>26,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -10509,6 +10518,22 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="4B196253-7F37-4999-B7C0-87C47BBC2C6D" Type="Text" Created="2019-04-29 15:17:57 +0800" Modified="2019-04-29 15:18:09 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D7478829-0DB6-49C0-897C-210E454BA5F1" Type="Text" Created="2019-04-29 15:17:57 +0800" Modified="2019-04-29 15:18:09 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -10648,13 +10673,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="144" Characters="394" Date="2019-04-28 00:00:47 +0800"/>
+        <PreviousSession Words="0" Characters="0" Date="2019-05-01 09:44:00 +0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-04-28 00:00:00 +0800">
-        <DraftWordCount>144</DraftWordCount>
-        <DraftCharCount>394</DraftCharCount>
-        <OtherWordCount>19</OtherWordCount>
-        <OtherCharCount>41</OtherCharCount>
+    <RecentWritingHistory Date="2019-05-01 00:00:00 +0800">
+        <DraftWordCount>69</DraftWordCount>
+        <DraftCharCount>134</DraftCharCount>
+        <OtherWordCount>69</OtherWordCount>
+        <OtherCharCount>118</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
