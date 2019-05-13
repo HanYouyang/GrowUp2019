@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-05-12 00:41:59 +0800" ModID="4F0C8653-977A-4A6F-AA9A-C6D68B65285C">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-05-12 21:28:39 +0800" ModID="B56A186C-7583-4A94-A397-EE2A28F79B1F">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-02-23 15:54:23 +0800">
             <Title>解释世界~生产力和生产关系</Title>
@@ -6377,7 +6377,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>77,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="125CB34A-1ABB-4648-96A7-884DFA7E8E20" Type="Text" Created="2019-03-28 23:30:23 +0800" Modified="2019-05-11 09:43:57 +0800">
@@ -6386,23 +6386,23 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>370,6</TextSelection>
+                                <TextSelection>262,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="EB8D63A7-0F78-4C4E-9C1B-2E50A1602B28" Type="Text" Created="2019-05-11 13:08:43 +0800" Modified="2019-05-11 13:24:21 +0800">
+                                <BinderItem UUID="EB8D63A7-0F78-4C4E-9C1B-2E50A1602B28" Type="Text" Created="2019-05-11 13:08:43 +0800" Modified="2019-05-12 21:28:39 +0800">
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>177,0</TextSelection>
+                                        <TextSelection>117,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="C2DB7748-D07E-4658-BA06-3F23643360BA" Type="Text" Created="2019-05-11 13:08:48 +0800" Modified="2019-05-11 13:09:07 +0800">
+                                <BinderItem UUID="C2DB7748-D07E-4658-BA06-3F23643360BA" Type="Text" Created="2019-05-11 13:08:48 +0800" Modified="2019-05-12 17:23:44 +0800">
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6,0</TextSelection>
+                                        <TextSelection>63,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="2A2B5CAF-F347-42FF-A8F4-2493A5E42449" Type="Text" Created="2019-05-11 13:08:57 +0800" Modified="2019-05-11 13:09:07 +0800">
@@ -10763,8 +10763,8 @@
     <RecentWritingHistory Date="2019-05-12 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>85</OtherWordCount>
-        <OtherCharCount>157</OtherCharCount>
+        <OtherWordCount>146</OtherWordCount>
+        <OtherCharCount>310</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
