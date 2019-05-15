@@ -341,5 +341,6 @@
     <Day dwc="0" dcc="0" dtwc="1042764" owc="977" occ="1778" dtcc="1922795">2019-05-11</Day>
     <Day dwc="0" dcc="0" dtwc="1042764" owc="140" occ="299" dtcc="1922795">2019-05-12</Day>
     <Day dwc="0" dcc="0" dtwc="1042764" owc="874" occ="1511" dtcc="1922795">2019-05-13</Day>
-    <Day dwc="0" dcc="0" owc="15" occ="24">2019-05-14</Day>
+    <Day dwc="0" dcc="0" dtwc="1042764" owc="388" occ="1320" dtcc="1922795">2019-05-14</Day>
+    <Day dwc="0" dcc="0" owc="18" occ="24">2019-05-15</Day>
 </WritingHistory>
