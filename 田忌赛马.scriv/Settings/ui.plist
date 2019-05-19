@@ -6,7 +6,7 @@
 	<dict>
 		<key>46A92DD8-CDA4-428A-A446-507345819A04</key>
 		<array>
-			<string>C4FEEF8F-8B8B-4195-9291-82D1B8811862</string>
+			<string>1ECFAA9B-7FBA-4F20-A97A-0854B2CCC07B</string>
 		</array>
 	</dict>
 	<key>NotesScaleFactor</key>
@@ -249,6 +249,11 @@
 	</dict>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
+		<key>76D021BB-CBB1-485E-A8E6-0018EE1F7D5F</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>AB5D6DDA-EA59-4344-99FC-922ED1EF9FF2</key>
 		<dict>
 			<key>Row</key>
@@ -272,7 +277,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>2</integer>
+		<integer>6</integer>
 	</array>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
@@ -327,7 +332,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>63 35 1216 742 0 0 1280 800 </string>
+	<string>1323 355 1216 742 0 0 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -337,7 +342,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>458.5</real>
+			<real>380</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
