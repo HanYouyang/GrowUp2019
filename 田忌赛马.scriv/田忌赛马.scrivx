@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-06-03 21:41:56 +0800" ModID="2188CE93-A5F9-4675-A060-2D48DD7C1652">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-06-03 23:43:50 +0800" ModID="C567EE3C-42C7-46E8-B248-A7928D9F9E0A">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-02-23 15:54:23 +0800">
             <Title>解释世界~生产力和生产关系</Title>
@@ -8575,13 +8575,22 @@
                                                 <TextSelection>500,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="24D752E6-63BE-4B77-AC23-0256FAC190C1" Type="Text" Created="2019-06-03 17:51:15 +0800" Modified="2019-06-03 21:41:56 +0800">
-                                            <Title>写作的价值判断</Title>
+                                        <BinderItem UUID="24D752E6-63BE-4B77-AC23-0256FAC190C1" Type="Text" Created="2019-06-03 17:51:15 +0800" Modified="2019-06-03 21:43:47 +0800">
+                                            <Title>Issue写作的价值判断</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3450,0</TextSelection>
+                                                <TextSelection>3451,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="6AC72D1B-0719-4864-A0FA-15ACAA0AEF61" Type="Text" Created="2019-06-03 21:43:48 +0800" Modified="2019-06-03 21:45:56 +0800">
+                                            <Title>Argument写作的举例类型</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>84,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="66C9DC39-EF97-43BD-9AA4-C7A2F8A84B2B" Type="Text" Created="2019-05-28 11:47:28 +0800" Modified="2019-06-03 21:13:03 +0800">
@@ -8599,7 +8608,16 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>285,0</TextSelection>
+                                                <TextSelection>342,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="B3FC276B-B16B-4D85-A2B1-87EACFB7DCD7" Type="Text" Created="2019-06-03 21:51:31 +0800" Modified="2019-06-03 23:43:50 +0800">
+                                            <Title>1011陈琦</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="C0D17356-FBED-437F-871E-D03A84601BA0" Type="Text" Created="2019-03-11 22:14:49 +0800" Modified="2019-05-29 17:21:42 +0800">
@@ -11061,8 +11079,8 @@
     <RecentWritingHistory Date="2019-06-03 00:00:00 +0800">
         <DraftWordCount>652</DraftWordCount>
         <DraftCharCount>1244</DraftCharCount>
-        <OtherWordCount>2290</OtherWordCount>
-        <OtherCharCount>4148</OtherCharCount>
+        <OtherWordCount>2580</OtherWordCount>
+        <OtherCharCount>4769</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
