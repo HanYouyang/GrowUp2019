@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-06-04 15:16:02 +0800" ModID="574FFB16-381D-4864-93A0-0A5993B102FA">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-06-05 16:33:30 +0800" ModID="8535D68B-AC30-47DD-9BAE-672CE3705140">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-02-23 15:54:23 +0800">
             <Title>解释世界~生产力和生产关系</Title>
@@ -8611,13 +8611,31 @@
                                                 <TextSelection>342,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="B3FC276B-B16B-4D85-A2B1-87EACFB7DCD7" Type="Text" Created="2019-06-03 21:51:31 +0800" Modified="2019-06-04 15:16:02 +0800">
+                                        <BinderItem UUID="06C065E3-C5BE-477C-9CD9-457FD36F247F" Type="Text" Created="2019-06-04 19:00:14 +0800" Modified="2019-06-04 23:38:25 +0800">
+                                            <Title>1011张禄</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>903,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="B3FC276B-B16B-4D85-A2B1-87EACFB7DCD7" Type="Text" Created="2019-06-03 21:51:31 +0800" Modified="2019-06-04 17:15:46 +0800">
                                             <Title>1011陈琦</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>521,0</TextSelection>
+                                                <TextSelection>1329,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="0BA250DA-FA15-4AC6-8DF0-C6D9D2FE9FA2" Type="Text" Created="2019-06-05 11:34:18 +0800" Modified="2019-06-05 16:33:30 +0800">
+                                            <Title>1013颜余珍</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>692,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="C0D17356-FBED-437F-871E-D03A84601BA0" Type="Text" Created="2019-03-11 22:14:49 +0800" Modified="2019-05-29 17:21:42 +0800">
@@ -11074,13 +11092,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-06-04 11:20:52 +0800"/>
+        <PreviousSession Words="0" Characters="0" Date="2019-06-05 10:50:03 +0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-06-04 00:00:00 +0800">
+    <RecentWritingHistory Date="2019-06-05 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>278</OtherWordCount>
-        <OtherCharCount>566</OtherCharCount>
+        <OtherWordCount>340</OtherWordCount>
+        <OtherCharCount>845</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
