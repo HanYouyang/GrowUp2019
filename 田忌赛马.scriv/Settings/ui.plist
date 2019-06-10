@@ -223,8 +223,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {364, 760}}</string>
-		<string>{{365, 0}, {915, 760}}</string>
+		<string>{{0, 0}, {346, 760}}</string>
+		<string>{{347, 0}, {933, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -313,7 +313,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {512, 710}}</string>
+		<string>{{0, 0}, {512, 711}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -332,7 +332,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>63 35 1216 743 0 0 1280 800 </string>
+	<string>63 36 1216 741 0 0 1280 777 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -342,7 +342,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>362</real>
+			<real>230</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
