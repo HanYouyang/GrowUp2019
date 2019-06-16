@@ -223,8 +223,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {346, 760}}</string>
-		<string>{{347, 0}, {933, 760}}</string>
+		<string>{{0, 0}, {407, 1400}}</string>
+		<string>{{408, 0}, {2152, 1400}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -250,6 +250,11 @@
 	<key>bookmarksSelectionInfo</key>
 	<dict>
 		<key>76D021BB-CBB1-485E-A8E6-0018EE1F7D5F</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>A478FF7E-F998-46BE-8C83-F315C00DC4BE</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -332,7 +337,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>63 36 1216 741 0 0 1280 777 </string>
+	<string>63 35 1216 742 0 0 1280 777 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -351,11 +356,11 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 437.33333333333331}, {587.33333333333337, 449.33333333333331}}</string>
+	<string>{{0, 0}, {620, 438}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>1.5</real>
+		<real>3</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>
