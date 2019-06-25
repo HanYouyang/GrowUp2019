@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="3D7DECD9-4708-43CF-A33E-999F63EBB046" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-06-25 16:53:50 +0800" ModID="E6285011-64ED-42D2-8ECE-0C2269501E16">
+    <Binder>
+        <BinderItem UUID="DFF6A0EE-CE14-422A-97E2-F4A7388725B3" Type="DraftFolder" Created="2019-06-25 11:47:14 +0800" Modified="2019-06-25 11:47:14 +0800">
+            <Title>草稿</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="C4614D25-F9CB-4381-A23C-6EC26379D7C3" Type="Text" Created="2019-06-25 11:47:14 +0800" Modified="2019-06-25 15:42:39 +0800">
+                    <Title>文件起因</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>368,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="9B08AD0A-8C26-4315-A26D-2F9ECAB2D4DB" Type="ResearchFolder" Created="2019-06-25 11:47:14 +0800" Modified="2019-06-25 11:47:14 +0800">
+            <Title>研究</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="6124759A-C410-4255-82C1-C17DB156EF62" Type="Text" Created="2019-06-25 16:41:38 +0800" Modified="2019-06-25 16:53:50 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>95,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="9628832A-3C02-4787-B806-34A62D6DBC80" Type="Text" Created="2019-06-25 11:47:42 +0800" Modified="2019-06-25 16:40:36 +0800">
+                            <Title>慈母手中线还能缝多久——个人价值与社会价值混淆与情绪崩溃</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>718,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="774AE3F2-6E8E-4079-82B8-2CBAA4153541" Type="Text" Created="2019-06-25 15:40:36 +0800" Modified="2019-06-25 16:40:44 +0800">
+                            <Title>科学家的奉献与价值实现——个人价值对社会价值的内化
+</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1265,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="0B008162-93D9-4D90-8F77-A0F8015CAD99" Type="TrashFolder" Created="2019-06-25 11:47:14 +0800" Modified="2019-06-25 11:47:14 +0800">
+            <Title>废纸篓</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="CC01D0BA-2AC2-46EF-A4AF-DDF3323CE1EB" Color="0.150563 0.150563 0.150563">
+            <Title>活页夹</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="04EE626F-48C1-4DC8-8EF7-439524696B0C" Color="0.190667 0.172702 0.216529">
+            <Title>搜索结果</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="9BC2A29C-C4AB-4672-9A9A-A805319E466B">标题</Type>
+            <Type ID="8F60688A-E3C3-48BD-808A-2B32D3F412C1">副标题</Type>
+            <Type ID="B9B50E0F-99BD-4B70-99D1-E7F85B83311A">稿件</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>9BC2A29C-C4AB-4672-9A9A-A805319E466B</Type>
+            </Folders>
+            <Containers>
+                <Type>B9B50E0F-99BD-4B70-99D1-E7F85B83311A</Type>
+            </Containers>
+            <Files>
+                <Type>B9B50E0F-99BD-4B70-99D1-E7F85B83311A</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>标签</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">无标签</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">红色</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">桔黄</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">黄色</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">绿</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">蓝色</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">紫色</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>状态</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">无状态</Status>
+            <Status ID="0">待办事项</Status>
+            <Status ID="1">正在进行</Status>
+            <Status ID="2">首个草稿</Status>
+            <Status ID="3">已修订草稿</Status>
+            <Status ID="4">最终草稿</Status>
+            <Status ID="5">完成</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-06-25 11:47:13 +0800" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="392" Characters="675" Date="2019-06-25 11:47:13 +0800"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2019-06-25 11:47:13 +0800">
+        <DraftWordCount>392</DraftWordCount>
+        <DraftCharCount>675</DraftCharCount>
+        <OtherWordCount>1415</OtherWordCount>
+        <OtherCharCount>2363</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
