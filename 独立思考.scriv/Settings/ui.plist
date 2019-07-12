@@ -6,8 +6,8 @@
 	<real>1.5</real>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {513, 1400}}</string>
-		<string>{{514, 0}, {2046, 1400}}</string>
+		<string>{{0, 0}, {660, 1400}}</string>
+		<string>{{661, 0}, {1899, 1400}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -17,6 +17,21 @@
 			<integer>-1</integer>
 		</dict>
 		<key>15923392-DFFE-40DE-B6AE-17D3AA623C1D</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3EBA89E3-E419-42EE-AC21-CB1A49E9D124</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>50CD628E-DCEE-4BC4-9025-CD61F0B3478E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>5853D482-34F0-4DA0-9A25-FB873DE9E767</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -41,12 +56,22 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>8D126722-0DB5-4639-B144-E9135FAB2459</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>8DB910D0-3DCD-4A3C-8869-C13A60775978</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
 		<key>9628832A-3C02-4787-B806-34A62D6DBC80</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>A8FD592F-411C-413C-A46B-8E999A252A0D</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -76,7 +101,32 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>D61498FB-A01D-4E60-B1CE-2EAFE55C6BB3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>DA79AA21-0916-406B-AA9C-6587DE8A088E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>DC96B143-E507-4727-9B79-9F95AAA3CFD6</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>E2C0FAB3-E882-41FA-9655-60D69DACA47A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>F743D743-260B-450F-ACD7-871C3DEDDE8F</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>Project</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -113,7 +163,7 @@
 		<real>3</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>2840 61 1000 674 1280 -640 2560 1417 </string>
+	<string>-200 94 1000 675 0 0 1280 777 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
