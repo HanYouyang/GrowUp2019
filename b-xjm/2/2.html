@@ -20,7 +20,8 @@
 <body>
     <!-- 别忘记加上这一段主体 -->
     <canvas id='id-canvas' width="1200" height="900"></canvas>
-    <!-- <script src=1.js></script> -->
+    <hr>
+    <input id='id-input-speed' type="range"  value="1">
 <script>
 var loadLevel = function(n) {
     n = n - 1
@@ -38,25 +39,31 @@ var enableDebugMode = function(enable) {
     if (!enable) {
         return
     }
-    window.enable = false
+    window.paused = false
     window.addEventListener('keydown', function(event){
         var k = event.key
         if (k == 'p') {
-            ball.paused()
+            paused = !paused
         } else if ('1234567'.includes(k)) {
             blocks = loadLevel(Number(k))
         } 
     })
+    document.querySelector('#id-input-speed').addEventListener('input', function(event){
+        var input = event.target
+        //log(event, input.value)
+        window.fps = Number(input.value)
+    })
 }
 var __main = function(){
     //变量基本名称
+    enableDebugMode(true)
+
     var paddle = Paddle()
     var ball = Ball()//其实两个都类似所以可以鉴定形成一个类
     var game = GuaGame(100)
-
+    // var paused = false 这里不能重新定义Paused，直接让内部关于Paused的内容全部按照拆出来的函数进行运行
     blocks = loadLevel(1)
-    enableDebugMode(true)
-
+    
     game.registerAction('a', function(){
         paddle.moveLeft()
         //把注册的键位和更新的函数都确定了，而整个game对象内部都有监听所以可以直接行驶功能
@@ -68,7 +75,7 @@ var __main = function(){
         ball.fire()
     })  
     game.update = function(){
-        if (ball.paused) {
+        if (paused) {
             return 
         }
         ball.move()

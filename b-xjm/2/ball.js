@@ -8,7 +8,6 @@ var Ball = function(){
         speedX: 15,//JSON当然强制最后不加
         speedY: 15,
         fired: false,
-        paused: false,
     }
     o.fire = function(){
         o.fired = true
