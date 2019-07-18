@@ -10,175 +10,53 @@
             border: 1px black solid;
         }
     </style>
+    <script src="guagame.js"></script>
+    <script src="ball.js"></script>
+    <script src="block.js"></script>
+    <script src="paddle.js"></script>
+    <script src="utils.js"></script>
+    <script src="levels.js"></script>
 </head>
 <body>
     <!-- 别忘记加上这一段主体 -->
     <canvas id='id-canvas' width="1200" height="900"></canvas>
     <!-- <script src=1.js></script> -->
 <script>
-
-//调试基本工具
-var log = console.log.bind(console)
-//简化函数的时候，首先要考虑如何把变量们变成一个对象
-var imageFromPath = function(path){
-    //给一个路径，载入一张图片，返回图片
-    var img = new Image()
-    img.src = path//注意图片格式可能出现各种内容
-    return img
+var loadLevel = function(n) {
+    n = n - 1
+    var level = levels[n]
+    var blocks = []
+    for (let i = 0; i < level.length; i++) {
+        var l = level[i]
+        var b = Block(l)
+        blocks.push(b)
+    }
+    return blocks
 }
-var Paddle = function(){
-    //对象名字大写
-    var image = imageFromPath('paddle.png')
-    var o = {
-        image: image,
-        x: 450,
-        y: 600,
-        speed: 15,//JSON当然强制最后不加
+var blocks = []
+var enableDebugMode = function(enable) {
+    if (!enable) {
+        return
     }
-    o.moveLeft = function(){
-        o.x = o.x - o.speed
-    }
-    o.moveRight = function(){
-        o.x = o.x + o.speed
-    }
-    o.collide = function(ball){
-        //全局变量的野路子看图片的宽和高
-        //判断两个图形相交的函数太大了
-        if (ball.y + ball.image.height > o.y) {
-            if (ball.x > o.x && ball.x < o.x + o.image.width) {
-                log('相撞')
-                return true
-            }
-        }
-        return false
-        // 这样两个就不撞了 return rectIntersects(o, ball) || rectIntersects(ball, o)
-    }
-    return o
-}
-var rectIntersects = function(a, b) {
-    var o = a
-    if (b.y > o.y && b.y < o.y + o.image.height) {
-            if (b.x > o.x && b.x < o.x + o.image.width) {
-                return true
-            }
-        }
-    return false
-}
-var Block = function(){
-    //对象名字大写
-    var image = imageFromPath('block2.png')
-    var o = {
-        image: image,
-        x: 100,
-        y: 100,
-        w: 50,
-        h: 20,
-        alive: true,
-    }
-    o.kill = function() {
-        log('block被消除了!')
-        o.alive = false
-    }
-    o.collide = function(b){
-        //log('ball撞到了一个block!')//这个地方一直在判断并且不断刷新，原因还是在于这个函数是不停要更新判断的，所以不能认为是错误
-        //全局变量的野路子看图片的宽和高
-        //判断两个图形相交的函数太大了
-        //判断相离取反可能更简单一点，但是这里确实是判断两个图形的点是不是在对方内部
-        //这种情况下面写的是b在a里面，但是还是可能a在b里面，所以写一个函数出来比较好，同时有a和b
-        return rectIntersects(o, b) || rectIntersects(b, o)
-    }
-    return o
-}
-var Ball = function(){
-    //对象名字大写
-    var image = imageFromPath('ball.png')
-    var o = {
-        image: image,
-        x: 300,
-        y: 400,
-        speedX: 15,//JSON当然强制最后不加
-        speedY: 15,
-        fired: false,
-    }
-    o.fire = function(){
-        o.fired = true
-    }
-    o.move = function(){
-        if (o.fired) {
-            if (o.x < 0 || o.x > 1200) {
-                o.speedX = -o.speedX
-            }
-            if (o.y < 0 || o.y > 900) {
-                o.speedY = -o.speedY    
-            }
-            o.x += o.speedX
-            o.y += o.speedY
-        }
-    }
-    return o
-}
-//下面的所有内容封装到对象里面去
-//每次建立一个对象就立即实例化到下面的主程序函数里面去
-var GuaGame = function(){
-    var canvas = document.querySelector('#id-canvas')
-    var context = canvas.getContext('2d')
-    
-    var g = {
-        actions: {},
-        keydowns: {},
-    }
-    g.canvas = canvas
-    g.context = context
-    g.drawImage = function(guaGame){
-        g.context.drawImage(guaGame.image, guaGame.x, guaGame.y)
-
-    }
-    //这里一方面是要监听你的按键响应动作，另外一方面是要监听你注册的事件
+    window.enable = false
     window.addEventListener('keydown', function(event){
-        g.keydowns[event.key] = true
-        //event.key还是应该用的关键字
+        var k = event.key
+        if (k == 'p') {
+            ball.paused()
+        } else if ('1234567'.includes(k)) {
+            blocks = loadLevel(Number(k))
+        } 
     })
-    window.addEventListener('keyup', function(event){
-        g.keydowns[event.key] = false
-    })
-    //注册函数获得你要的事件
-    g.registerAction = function(key, callback){
-        g.actions[key] = callback
-        //给出了你注册的新的key和新的callback到actions里面
-        //内部就是丰富出来了actions这个属性的新建对象
-        //只不过是下面又继续监听对象
-        //这个时候的问题在于key本身是一个变动的对象，所以要根据这个属性调用函数
-    }
-    setInterval(function(){
-        //events监听你注册的事件，如果你发现有什么事件被新注册进来就放到对象里面去
-        //这里的监听放在这里转换有点刻意，不过理解就好，不必非得放在这里面时刻监听，毕竟你注册就直接在main里面而不是说一直监听下去
-        var actions = Object.keys(g.actions)//将对象的对应key转化为数组
-        for (let i = 0; i < actions.length; i++) {
-            var key = actions[i]
-            //依次遍历自己现在的内容从而让自己能够使用
-            if (g.keydowns[key]){
-                //如果按键被按下调用注册的action
-                g.actions[key]()
-            }
-        }
-        //update
-        g.update()
-        //最后的update是完全和整个监听按键分离开了，这个和操作与本来的不用关系了
-        //clear
-        context.clearRect(0, 0, canvas.width, canvas.height)
-        //draw
-        g.draw()
-    }, 1000/60)
-    return g
 }
-
 var __main = function(){
     //变量基本名称
     var paddle = Paddle()
-    var block = Block()
     var ball = Ball()//其实两个都类似所以可以鉴定形成一个类
-    var game = GuaGame()
-    
+    var game = GuaGame(100)
+
+    blocks = loadLevel(1)
+    enableDebugMode(true)
+
     game.registerAction('a', function(){
         paddle.moveLeft()
         //把注册的键位和更新的函数都确定了，而整个game对象内部都有监听所以可以直接行驶功能
@@ -188,27 +66,38 @@ var __main = function(){
     })
     game.registerAction('f', function(){
         ball.fire()
-    }) 
+    })  
     game.update = function(){
+        if (ball.paused) {
+            return 
+        }
         ball.move()
         if(paddle.collide(ball)){
-            ball.speedY *= -1
+            ball.back()
         }
-        if(block.collide(ball)){
-            block.kill()
+        for (let i = 0; i < blocks.length; i++) {
+            var block = blocks[i]
+            if (block.collide(ball)) {
+                block.kill()
+                ball.back()//循环判断各个砖块是否被打掉
+            }
         }
     }
     game.draw = function(){
         game.drawImage(paddle)
         game.drawImage(ball)
-        if (block.alive) {
-            game.drawImage(block)
+        for (let i = 0; i < blocks.length; i++) {
+            var block = blocks[i]
+            if (block.alive) {
+                game.drawImage(block)
+            }
         }
     }
 }
 __main()
 //从上写到下的代码就是0分代码，最外层一定只能有函数而不能有变量，程序必须以函数为基础单位
 //定义入口，放到特殊函数里面
+//这里面有Bug基于draw和异步，可能出现本身不存在的内容会出现阻碍
 </script>
 </body>
 </html> 
