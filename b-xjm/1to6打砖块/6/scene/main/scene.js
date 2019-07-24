@@ -61,7 +61,7 @@ var Scene = function(game){
 
     s.draw = function(){
         //背景板
-        game.context.fillStyle = '#554'
+        game.context.fillStyle = '#553'
         game.context.fillRect(0, 0, 1200, 900)
         game.drawImage(paddle)
         game.drawImage(ball)

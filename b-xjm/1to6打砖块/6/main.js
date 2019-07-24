@@ -37,7 +37,7 @@ var __main = function(){
         block: 'img/block2.png',
     }
     //这里不能重新定义Paused，直接让内部关于Paused的内容全部按照拆出来的函数进行运行
-    var game = GuaGame(100, images, function(game){
+    var game = GuaGame.instance(100, images, function(game){
         var scene = SceneTitle.new(game)//class生成的类还必须用new
         game.runWithScene(scene)
     })
