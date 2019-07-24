@@ -10,16 +10,22 @@
             border: 1px black solid;
         }
     </style>
-    <script src="guagame.js"></script>
-    <script src="ball.js"></script>
-    <script src="block.js"></script>
-    <script src="paddle.js"></script>
-    <script src="utils.js"></script>
+    <!-- 主程序 -->
+    <script src="guagame/gua_game.js"></script>
+    <script src="guagame/gua_scene.js"></script>
+    <script src="guagame/utils.js"></script>
+    <!-- 各种组件内容 -->
+    <script src="scene/main/ball.js"></script>
+    <script src="scene/main/block.js"></script>
+    <script src="scene/main/paddle.js"></script>
+    <!-- 关卡编辑 -->
     <script src="levels.js"></script>
-    <script src="scene.js"></script>
-    <script src="sceneEnd.js"></script>
+    <!-- 场景情况 -->
+    <script src="scene/main/scene.js"></script>
+    <script src="scene/end/sceneEnd.js"></script>
+    <script src="scene/title/title.js"></script>
 </head>
-<body>
+<body> 
     <!-- 别忘记加上这一段主体 -->
     <canvas id='id-canvas' width="1200" height="900"></canvas>
     <hr>

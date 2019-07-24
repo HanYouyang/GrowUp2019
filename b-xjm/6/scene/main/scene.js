@@ -43,7 +43,7 @@ var Scene = function(game){
         ball.move()
         //在更新中设置球出界的规则而非其他内容中
         if (ball.y > paddle.y) {
-            var end = SceneEnd(game)
+            var end = SceneEnd.new(game)
             game.replaceScene(end)
         }
         if(paddle.collide(ball)) {
@@ -80,8 +80,6 @@ var Scene = function(game){
         game.context.font = '30px serif'
         game.context.fillText('分数：' + score, 10, 850)
     }
-
-   
 
     return s
 }

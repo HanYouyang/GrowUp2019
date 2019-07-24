@@ -110,8 +110,8 @@ var GuaGame = function(fps, images, runCallback){
                 // log('执行runloop后')
             }, 1000/(fps+1))//通过+1避免出现除以0
         }
-        g.replaceScene = function(end){
-            g.scene = end
+        g.replaceScene = function(rep){
+            g.scene = rep
         }
         g.__start = function(){
             runCallback(g)//首次运行要有生成的内容
