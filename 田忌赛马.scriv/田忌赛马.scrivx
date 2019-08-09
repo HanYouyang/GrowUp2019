@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.3-11945" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-07-17 14:49:09 +0800" ModID="B6C0DC14-E410-4C29-9CDD-0FB15821DB83">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.3-11945" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-08-05 17:05:43 +0800" ModID="50169C78-B1FF-4755-AD95-6F224310BA0B">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-02-23 15:54:23 +0800">
             <Title>解释世界~生产力和生产关系</Title>
@@ -8581,7 +8581,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>343,0</TextSelection>
+                                        <TextSelection>139,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="EE93B86D-3B26-4A11-8409-03403A3986B2" Type="Text" Created="2019-06-16 22:09:07 +0800" Modified="2019-06-18 16:44:59 +0800">
@@ -11490,10 +11490,10 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-07-18 00:00:00 +0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-07-17 14:48:15 +0800"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-08-06 00:00:00 +0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2019-08-05 17:04:46 +0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-07-17 00:00:00 +0800">
+    <RecentWritingHistory Date="2019-08-05 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
