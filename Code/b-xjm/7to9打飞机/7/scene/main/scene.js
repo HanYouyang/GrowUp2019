@@ -1,3 +1,25 @@
+// class Player extends GuaImage {
+//     constructor(game){
+//         super(game, 'player')
+//         this.speed = 10
+//     }
+//     update(){
+//     }
+//     moveLeft(){
+//         this.x -= this.speed
+//     }
+//     moveRight(){
+//         this.x += this.speed
+//     }
+//     moveUp(){
+//         this.y -= this.speed
+//     }
+//     moveDown(){
+//         this.y += this.speed
+//     }
+
+// }
+
 class Scene extends GuaScene {
     constructor(game){
         super(game)
@@ -10,13 +32,13 @@ class Scene extends GuaScene {
         this.cloud = GuaImage.new(game, 'cloud')
         this.sky = GuaImage.new(game, 'bullet')
         this.player = GuaImage.new(game, 'player')
+        //this.player = Player.new(game)//仍然需要注册事件
         this.player.x = 100
         this.player.y = 800
 
         this.addElement(this.bg)
-        this.addElement(this.player)
         this.addElement(this.cloud)
-
+        this.addElement(this.player)
         //log('elements1', this.elements)
     }
     // draw(){
