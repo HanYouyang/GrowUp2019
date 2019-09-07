@@ -18,27 +18,3 @@ class SceneEnd extends GuaScene {
     }
 
 }
-
-
-// var SceneEnd = function(game){
-//     var s = {
-//         game: game,
-
-//     }
-
-//     game.registerAction('r', function(){
-//         var gameRe = SceneTitle.new(game)
-//         game.replaceScene(gameRe)
-//     })
-
-//     s.update = function(){
-        
-//     }
-
-//     s.draw = function(){
-//         game.context.font = '30px serif'
-//         game.context.fillText('游戏结束，按 r 重新开始游戏', 90, 600)
-//     }
-
-//     return s
-// }
