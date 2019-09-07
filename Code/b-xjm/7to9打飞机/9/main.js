@@ -44,10 +44,12 @@ var __main = function(){
         enemy5: 'img/enemy5.png',
         enemy6: 'img/enemy6.png',
         enemy7: 'img/enemy7.png',
+        fire: 'img/fire.png',
     }
     //这里不能重新定义Paused，直接让内部关于Paused的内容全部按照拆出来的函数进行运行
     var game = GuaGame.instance(100, images, function(game){
-        var scene = Scene.new(game)//class生成的类还必须用new
+        // var scene = Scene.new(game)//class生成的类还必须用new
+        var scene = SceneTitle.new(game)//class生成的类还必须用new
         game.runWithScene(scene)
     })
     enableDebugMode(game, true)

@@ -17,14 +17,12 @@ class GuaScene {
 
     draw(){//这里一定要被继承的函数必须有这个相应的内容
         //log('elements2', this.elements)
-
         for (var i = 0; i < this.elements.length; i++) {
             var element = this.elements[i]
             //log('element', element)
             this.game.drawImage(element)
         }
     }
-
     update(){
         if (this.debugModeEnabled) {
             for (var i = 0; i < this.elements.length; i++) {

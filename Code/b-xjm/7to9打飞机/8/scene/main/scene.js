@@ -114,8 +114,6 @@ class Scene extends GuaScene {
         var game = this.game
         this.bg = GuaImage.new(game, 'sky')
         this.cloud = Cloud.new(game)
-        //this.bullet = GuaImage.new(game, 'bullet')
-        //this.player = GuaImage.new(game, 'player')
         this.player = Player.new(game)//仍然需要注册事件
         this.player.x = 100
         this.player.y = 800

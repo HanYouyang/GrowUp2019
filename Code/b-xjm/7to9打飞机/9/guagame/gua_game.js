@@ -1,4 +1,4 @@
-class GuaGame{
+class GuaGame {
     constructor(fps, images, runCallback){
         window.fps = fps
         this.images = images
