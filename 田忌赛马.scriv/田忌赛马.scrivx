@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.3-11945" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-09-21 10:47:04 +0800" ModID="5242B94D-CFA6-42AF-8AE7-36A9FFA5BF7D">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.3-11945" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-09-21 12:05:28 +0800" ModID="4EE55479-A88C-4112-B306-A39CAAC492C8">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2019-02-23 15:54:23 +0800">
             <Title>解释世界~生产力和生产关系</Title>
@@ -1476,22 +1476,6 @@
                                 <TextSelection>335,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="20369BC5-8730-4240-B332-89BD400455C7" Type="Text" Created="2019-04-11 16:44:22 +0800" Modified="2019-04-11 17:12:53 +0800">
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="94B1DF9A-3930-4C51-B4D9-4D31B63DC2BA" Type="Text" Created="2019-04-11 16:48:12 +0800" Modified="2019-04-11 17:13:01 +0800">
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>3,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem UUID="9562B40B-EE11-4A52-A845-FE64D814BA70" Type="Text" Created="2019-04-11 10:28:17 +0800" Modified="2019-04-11 10:29:39 +0800">
                             <Title>基金漏斗</Title>
                             <MetaData>
@@ -1499,24 +1483,6 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>201,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="ADAFC134-1506-4707-80CA-55F942523950" Type="Text" Created="2019-04-11 10:28:27 +0800" Modified="2019-04-11 10:28:31 +0800">
-                            <Title>比特币漏斗</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="629B0758-C9EA-4202-953A-5BAE729B5731" Type="Text" Created="2019-04-11 10:28:33 +0800" Modified="2019-04-11 10:28:36 +0800">
-                            <Title>房产漏斗</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="2477BF28-8059-4D3B-A536-8143E75CA719" Type="Text" Created="2018-10-20 10:53:17 +0800" Modified="2019-03-27 19:13:50 +0800">
@@ -11178,53 +11144,6 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
-            <Children>
-                <BinderItem UUID="F883C9C0-9FCA-48F5-B1ED-E901C723F82D" Type="Text" Created="2019-02-22 10:21:50 +0800" Modified="2019-04-08 20:06:33 +0800">
-                    <Title>股市靠什么涨-姜超海通证券</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>14,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="A1AEDA9C-B4C9-4DB7-950C-3DB857F896EC" Type="Text" Created="2019-03-17 16:33:47 +0800" Modified="2019-03-17 16:34:01 +0800">
-                    <Title>论当前中国市场的机会与风险</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,49</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="E5A347AC-D08B-4758-A431-42138AAD9817" Type="Text" Created="2019-03-20 08:59:55 +0800" Modified="2019-03-20 09:00:08 +0800">
-                    <Title>如何看待我国储蓄率的变化</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,49</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="C38DDB1B-0483-46D5-AE9C-7E5AA98950D1" Type="Text" Created="2019-04-16 10:22:16 +0800" Modified="2019-04-16 10:22:53 +0800">
-                    <Title>混改3.0，以退为进——兼议格力混改的示范意义</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>14,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="225160D7-A453-40E2-BF40-6E587D8BC0E2" Type="Text" Created="2019-04-21 20:13:12 +0800" Modified="2019-04-21 20:13:41 +0800">
-                    <Title>货币松了还是紧了？</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>17,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <Collections>
