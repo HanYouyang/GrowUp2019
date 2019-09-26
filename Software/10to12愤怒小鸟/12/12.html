@@ -18,6 +18,7 @@
     <script src="guagame/gua_label.js"></script>
     <script src="guagame/gua_animation.js"></script>
     <script src="guagame/utils.js"></script>
+    <script src="guagame/config.js"></script>
     <!-- 各种组件内容 -->
     <script src="scene/main/ball.js"></script>
     <script src="scene/main/block.js"></script>
@@ -37,52 +38,15 @@
     <div class=''>
         <!-- <textarea id="id-text-log" cols="200" rows="6"></textarea> -->
     </div>
-    <div class=''>
-        <label for="">
+    <div class='gua-controls'>
+        <!-- <label for="">
             <input class='gua-auto-slider' type="range"
+            max='500'
             value=''
             data-value='config.player_speed'
             >
             玩家速度：<span class='gua-label'></span>
-        </label>
-    </div>
-    <div class=''>
-        <label for="">
-            <input class='gua-auto-slider' type="range"
-            value=''
-            data-value='config.fire_coolDown'
-            >
-            子弹冷却时间：<span class='gua-label'></span>
-        </label>
-    </div>
-    <div class=''>
-            <label for="">
-                <input class='gua-auto-slider' type="range"
-                value=''
-                data-value='config.bullet_speed'
-                >
-                bullet冷却时间：<span class='gua-label'></span>
-            </label>
-        </div>
-    <div class=''>
-        <label for="">
-            <input class='gua-auto-slider' type="range"
-            value=''
-            min='-10'
-            max='10'
-            data-value='config.cloud_speed'
-            >
-            cloud速度：<span class='gua-label'></span>
-        </label>
-    </div>
-    <div class=''>
-        <label for="">
-            <input class='gua-auto-slider' type="range"
-            value=''
-            data-value='config.enemy_speed'
-            >
-            enemy速度：<span class='gua-label'></span>
-        </label>
+        </label> -->
     </div>
 
 <script>
@@ -97,17 +61,46 @@
             })
         }
     }
+    var templateControl = function(key, item){
+        var i = item
+        var t = `
+        <label for="">
+            <input class='gua-auto-slider' type="range"
+            max='500'
+            value='${i.value}'
+            data-value='config.${key}'
+            >
+            ${i._comment}：<span class='gua-label'></span>
+        </label>
+        `
+        return t
+    }
+    var insertControls = function(){
+        var div = e('.gua-controls')
+        var keys = Object.keys(config)
+        for (let k of keys) {
+            var item = config[k]
+            var html = templateControl(k, item)
+            div.insertAdjacentHTML('beforeend', html)//可以做个性能测试
+        }
+    }
+    var bindEvents = function(){
+        bindAll('.gua-auto-slider', 'input', function(event){
+            var target = event.target
 
-    bindAll('.gua-auto-slider', 'input', function(event){
-        var target = event.target
+            var bindVar = target.dataset.value
+            var v = target.value
+            eval(bindVar + '.value =' + v)
 
-        var bindVar = target.dataset.value
-        var v = target.value
-        eval(bindVar + '=' + v)
-
-        var label = target.closest('label').querySelector('.gua-label')
-        label.innerText = v
-    })
+            var label = target.closest('label').querySelector('.gua-label')
+            label.innerText = v
+        })
+    }
+    var _main = function(){
+        insertControls()
+        bindEvents()
+    }
+    _main()
 </script>
 <script src=main.js>
 //从上写到下的代码就是0分代码，最外层一定只能有函数而不能有变量，程序必须以函数为基础单位
