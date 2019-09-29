@@ -14,19 +14,25 @@
             data-action="draw_tile"
             data-type="source"
             width="640" height="640"></canvas>
+        <canvas id="id-canvas-tile" 
+            data-action="draw_tile"
+            data-type="tile"
+            width="160" height="160"></canvas>
         <canvas id="id-canvas-sprite" 
             data-action="draw_tile"
             data-type="tile"
             width="320" height="320"></canvas>
-        <canvas id="" 
+        <!-- <canvas id="" 
             data-action="draw_tile"
             data-type="tile"
-            width="320" height="320"></canvas>
+            width="320" height="320"></canvas> -->
         <div class='gua-controls'>
             <button data-action='change_offset' data-offset='-1024'>-1024</button>
             <button data-action='change_offset' data-offset='-16'>-16</button>
             <button data-action='change_offset' data-offset='16'>16</button>
             <button data-action='change_offset' data-offset='1024'>1024</button>
+            <button data-action='clear_tile' data-selector='#id-canvas-tile'>清空tile</button>
+
         </div>
         <script>
         // 每个方块 8 * 8像素
@@ -50,7 +56,7 @@
         const drawNes = bytes => {
             let canvas = e('#id-canvas')
             let context = canvas.getContext('2d')
-
+            context.clearRect(0, 0, 1000, 1000)
             let blockSize = 8
             let pixelSize = 8
             let pixelWidth = 10
@@ -80,19 +86,19 @@
                     let c1 = (p1 >> (7 - j)) & 0b00000001
                     let c2 = (p2 >> (7 - j)) & 0b00000001
                     let pixel = (c2 << 1) + c1 
-                    // if (pixel != 0) {
-                    //     let color = colors[pixel]
-                    //     context.fillStyle = color
-                    //     let px = x + j * w
-                    //     let py = y + i * h
-                    //     context.fillRect(px, py, w, h)
-                    // }
+                    if (pixel != 0) {
+                        let color = colors[pixel]
+                        context.fillStyle = color
+                        let px = x + j * w
+                        let py = y + i * h
+                        context.fillRect(px, py, w, h)
+                    }
 
-                    let color = colors[pixel]
-                    context.fillStyle = color
-                    let px = x + j * w
-                    let py = y + i * h
-                    context.fillRect(px, py, w, h)
+                    // let color = colors[pixel]
+                    // context.fillStyle = color
+                    // let px = x + j * w
+                    // let py = y + i * h
+                    // context.fillRect(px, py, w, h)
                 }
             }
         }
@@ -120,6 +126,14 @@
                 window.offset += offset
                 e('h3').innerHTML = window.offset
                 drawNes(window.bytes)
+            },
+            clear_tile(event){
+                let target = event.target
+                let sel = target.dataset.selector
+                log('sel', sel)
+                let context = e(sel).getContext('2d')
+                log('context', context)
+                context.clearRect(0, 0, 1000, 1000)
             },
             draw_tile(event){
                 let target = event.target
