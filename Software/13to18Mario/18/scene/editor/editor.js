@@ -1,48 +1,3 @@
-class GuaTileMap {
-    constructor(game){
-        this.game = game
-        this.tiles = [
-            1, 1, 1, 0, 1,
-            1, 2, 3, 0, 1,
-            1, 2, 3, 0, 1,
-        ]
-        this.th = 5
-        this.tw = this.tiles.length / this.th
-        this.tileImages = [
-            GuaImage.new(game, 't1'),
-            GuaImage.new(game, 't2'),
-            GuaImage.new(game, 't3'),
-            GuaImage.new(game, 't4'),
-        ]
-        this.tileSize = 32
-    }
-    static new(...args){
-        return new this(...args)
-    }
-    update(){
-
-    }
-    draw(){
-        let h = this.th
-        // log('h = ', h)
-        for (let i = 0; i < this.tiles.length; i++) {
-            let index = this.tiles[i]
-            if (index != 0) {
-                let x = Math.floor(i / h) * this.tileSize
-                let y = (i % h) * this.tileSize
-                let image = this.tileImages[index]
-                this.game.context.drawImage(image.texture, x, y)
-            }
-            
-        }
-    }
-
-
-}
-
-
-
-
 class SceneEditor extends GuaScene {
     constructor(game){
         super(game)
@@ -53,7 +8,7 @@ class SceneEditor extends GuaScene {
         let map = GuaTileMap.new(game)
         this.addElement(map)
 
-        let mario = GuaNesSprite.new(game)
+        let mario = GuaNesSprite.new(game, map)
         this.addElement(mario)
         mario.x = 100
         mario.y = 100

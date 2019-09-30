@@ -1,6 +1,8 @@
 class GuaNesSprite {
-    constructor(game){
+    constructor(game, map){
         this.game = game
+        this.map = map
+        this.tileSize = this.map.tileSize
         this.drawOffset = 32784
 
         this.data = window.bytes.slice(this.drawOffset)
@@ -27,8 +29,8 @@ class GuaNesSprite {
         this.vx = 0
         this.mx = 0
     }
-    static new(game){
-        return new this(game)
+    static new(...args){
+        return new this(...args)
     }
     drawBlock(context, data, x, y, pixelWidth){
         const colors = [
@@ -107,6 +109,23 @@ class GuaNesSprite {
         this.vy = -3
         // this.rotation = -45
     }
+
+    updateGravity(){
+        let i = Math.floor(this.x / this.tileSize)
+        let j = Math.floor(this.y / this.tileSize) + 2
+        let onTheGround = this.map.onTheGround(i, j)
+        if (onTheGround) {
+            this.vy = 0
+        } else {
+            this.y += this.vy
+            this.vy += this.gy * 0.02
+        }
+        
+        // var baseHeight = 100
+        // if (this.y > baseHeight) {
+        //     this.y = baseHeight
+        // }
+    }
     update(){
 
         //更新摩擦力和加速度
@@ -119,12 +138,7 @@ class GuaNesSprite {
             this.x += this.vx
         }
         //更新重力
-        this.y += this.vy
-        this.vy += this.gy * 0.02
-        var baseHeight = 100
-        if (this.y > baseHeight) {
-            this.y = baseHeight
-        }
+        this.updateGravity()
 
         this.frameNumber --
         if (this.frameNumber == 0) {
