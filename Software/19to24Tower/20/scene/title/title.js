@@ -4,16 +4,41 @@ class SceneTitle extends GuaScene {
         this.setup()
     }
     setup(){
+        this.enemies = []
+        this.towers = []
+        this.setupBG()
+        this.setupTower()
+        this.setupGameElements()
+        this.setupHUD()
+        this.setUpInputs()
+    }
+    setupBG(){
         let bg = GuaImage.new(this.game, 'bg')
         this.addElement(bg)
+    }
+    setupTower(){
+        let t1 = Tower1.new(this.game)
+        t1.x = 300
+        t1.y = 230
+        this.addElement(t1)
+        this.towers.push(t1)
+    }
+    setupGameElements(){
+        let e1 = Enemy1.new(this.game)
+        this.addElement(e1)
+        let e2 = Enemy1.new(this.game)
+        e2.x -= 30
+        this.addElement(e2)
 
+        this.enemies.push(e1)
+        this.enemies.push(e2)
+    }
+    setupHUD(){
         let gun = GuaImage.new(this.game, 'gun')
         gun.x = 500
         gun.y = 300
         this.gun = gun
         this.addElement(gun)
-
-        this.setUpInputs()
     }
     debug(){
 
@@ -21,6 +46,12 @@ class SceneTitle extends GuaScene {
     //这里不能自己写有update，会覆盖其他内容
     update(){
         super.update()
+        //让tower寻找目标
+        for (let t of this.towers) {
+            if (t.target === null) {
+                t.findTarget(this.enemies)
+            }
+        }
     }
     setUpInputs(){
         //mouse inputs

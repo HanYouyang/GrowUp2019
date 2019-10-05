@@ -12,9 +12,8 @@ class GuaImage {
         this.flipY = false
         this.rotation = 0
     }
-    static new(game, name){
-        var i = new this(game, name)
-        return i
+    static new(...args){
+        return new this(...args)
     }
     pointInFrame(x, y){
         let xIn = x >= this.x && x <= this.x + this.w
@@ -25,12 +24,16 @@ class GuaImage {
         this.game.drawImage(this)
     }
     update(){
-        
     }
     clone(){
         let c = GuaImage.new(this.game, this.name)
         c.x = this.x 
         c.y = this.y 
         return  c
+    }
+    center(){
+        let x = this.x + this.w / 2
+        let y = this.y + this.h / 2
+        return Vector.new(x, y)
     }
 }
