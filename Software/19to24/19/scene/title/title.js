@@ -1,19 +1,25 @@
-class SceneEditor extends GuaScene {
+class SceneTitle extends GuaScene {
     constructor(game){
         super(game)
 
-        // var bg = GuaImage.new(game, 'bg')
-        // this.addElement(bg)
+        var bg = GuaImage.new(game, 'bg')
+        this.addElement(bg)
 
-        let map = GuaTileMap.new(game)
-        this.addElement(map)
-
-        let mario = GuaNesSprite.new(game, map)
+        let mario = GuaNesSprite.new(game)
         this.addElement(mario)
         mario.x = 100
-        mario.y = 100
+        mario.y = 400
         this.mario = mario
+
         this.skipCount = 4
+        this.grounds = []
+        for (let i = 0; i < 25; i++) {
+            var g = GuaImage.new(game, 'ground')
+            g.x = i * 19
+            g.y = 462
+            this.addElement(g)
+            this.grounds.push(g)          
+        }
 
         this.setUpInputs()
     }
@@ -26,7 +32,7 @@ class SceneEditor extends GuaScene {
     setUpInputs(){
         var self = this
         var b = this.mario
-        var playerSpeed = 0.5
+        var playerSpeed = 5
         this.game.registerAction('a', function(keyStatus){
             b.move(-playerSpeed, keyStatus)
         })
@@ -34,7 +40,7 @@ class SceneEditor extends GuaScene {
             b.move(playerSpeed, keyStatus)
         })
         this.game.registerAction('j', function(keyStatus){
-            b.jump(keyStatus)
+            b.jump()
         })
     }
 }
