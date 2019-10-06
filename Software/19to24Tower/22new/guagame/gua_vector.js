@@ -22,7 +22,7 @@ class Vector {
         return Vector.new(dx, dy)
     }
     normal(){
-        let f = this.length(this) / 1
+        let f = this.length() / 1
         let v = Vector.new(this.x / f, this.y / f)
         return v
     }

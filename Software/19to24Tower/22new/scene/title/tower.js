@@ -13,7 +13,7 @@ class Tower1 extends GuaImage {
         this._fireCount = 0
     }
     draw(){
-        this.drawAttackRange()
+        // this.drawAttackRange()
         super.draw()
     }
     drawAttackRange(){
@@ -25,22 +25,17 @@ class Tower1 extends GuaImage {
         context.fill()
     }
     canAttact(enemy){
-
         let e = enemy
-        let enemyExist = e !== null && !e.dead
-        if (enemyExist) {
-            let can = this.center().distance(enemy.center()) < this.range
-            if (this._fireCount != 0) {
-                this._fireCount--
-                return false
-            } else {
-                this._fireCount = this._cooldown
-                return can
-            }
-            
-        } else {
-            return false
+        if (e == null) {
+            return 
         }
+        let enemyExist = e !== null && !e.dead
+        let inRange = this.center().distance(e.center()) < this.range
+        let can = inRange && enemyExist
+        if (!can) {
+            this.target = null
+        }
+        return can
     }
     findTarget(enemies){
         for (let e of enemies) {
@@ -50,14 +45,30 @@ class Tower1 extends GuaImage {
             }
         }
     }
+    // update(){
+    //     this.updateRotation(this.target)
+    //     if (this.canAttact(this.target)) {
+    //         log('攻击敌人')
+    //         this.target.underAttact(this.attack)
+    //         if (this.target.dead) {
+    //             this.target = null
+    //         }
+    //     }
+    // }
     update(){
-        this.updateRotation(this.target)
-        if (this.canAttact(this.target)) {
-            log('攻击敌人')
-            this.target.underAttact(this.attack)
-            if (this.target.dead) {
-                this.target = null
-            }
+        let target = this.target
+        this.updateRotation(target)
+        if (this.canAttact(target)) {
+            this.fire(target)
+        }
+    }
+    fire(target){
+        if (this._fireCount != 0) {
+            this._fireCount--
+        } else {
+            this._fireCount = this._cooldown
+            target.underAttact(this.attack)
+            // log('target', target)
         }
     }
     updateRotation(target){
@@ -65,7 +76,7 @@ class Tower1 extends GuaImage {
             let v = target.center().sub(this.center()).normal()
             // let dx = target.x - this.x 
             // let dy = target.y - this.y
-            let r = Math.jwjc(v.x, -v.y)
+            let r = jwjc(v.x, -v.y)
             this.rotation = r
         }
     }

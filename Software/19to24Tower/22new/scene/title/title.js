@@ -16,7 +16,21 @@ class SceneTitle extends GuaScene {
         let bg = GuaImage.new(this.game, 'bg')
         this.addElement(bg)
     }
+    // addTower(x, y){
+    //     let t1 = Tower1.new(this.game)
+    //     t1.x = x
+    //     t1.y = y
+    //     this.addElement(t1)
+    //     this.towers.push(t1)
+    // }
+    // setupTower(){
+    //    this.addTower(100, 150)
+    //    this.addTower(100, 200)
+    // }
     addTower(x, y){
+        x = Math.floor(x / 100) * 100
+        y = Math.floor(y / 100) * 100
+
         let t1 = Tower1.new(this.game)
         t1.x = x
         t1.y = y
@@ -24,18 +38,25 @@ class SceneTitle extends GuaScene {
         this.towers.push(t1)
     }
     setupTower(){
-       this.addTower(100, 130)
-       this.addTower(100, 230)
+       this.addTower(100, 190)
+       this.addTower(100, 280)
     }
     setupGameElements(){
+        // for (let i = 0; i < 30; i++) {
+        //     let e1 = Enemy1.new(this.game)
+        //     e1.x -= i * 40
+        //     this.addElement(e1)
+        //     this.enemies.push(e1)
+        // }
+        // let offset = [0, 10]
         for (let i = 0; i < 50; i++) {
             let e1 = Enemy1.new(this.game)
-            e1.x -= i * 40
-            this.addElement(e1)
+            e1.x -= i * 50
+            // e1.y += offset[i % 2]
             this.enemies.push(e1)
 
+            this.addElement(e1)
         }
-    
     }
     setupHUD(){
         let gun = GuaImage.new(this.game, 'gun')
@@ -61,6 +82,8 @@ class SceneTitle extends GuaScene {
         //mouse inputs
         let self = this
         let startDrag = false
+        let ox = 0
+        let oy = 0
         this.game.registerMouse(function(event, status){
             let x = event.offsetX 
             let y = event.offsetY
@@ -70,13 +93,16 @@ class SceneTitle extends GuaScene {
                     startDrag = true
                     self.tower = self.gun.clone()
                     self.addElement(self.tower)
+                    ox = self.gun.x - x
+                    oy = self.gun.y - y
                 }
             } else if(status == 'move') {
-                self.tower.x = x
-                self.tower.y = y
+                self.tower.x = x + ox
+                self.tower.y = y + oy
             } else {
                 startDrag = false
                 self.removeElement(self.tower)
+                self.addTower(x, y)
             }
             // log('mouse event', status, event)
         })
