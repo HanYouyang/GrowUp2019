@@ -16,22 +16,26 @@ class SceneTitle extends GuaScene {
         let bg = GuaImage.new(this.game, 'bg')
         this.addElement(bg)
     }
-    setupTower(){
+    addTower(x, y){
         let t1 = Tower1.new(this.game)
-        t1.x = 100
-        t1.y = 230
+        t1.x = x
+        t1.y = y
         this.addElement(t1)
         this.towers.push(t1)
     }
+    setupTower(){
+       this.addTower(100, 130)
+       this.addTower(100, 230)
+    }
     setupGameElements(){
-        let e1 = Enemy1.new(this.game)
-        this.addElement(e1)
-        let e2 = Enemy1.new(this.game)
-        e2.x -= 30
-        this.addElement(e2)
+        for (let i = 0; i < 50; i++) {
+            let e1 = Enemy1.new(this.game)
+            e1.x -= i * 40
+            this.addElement(e1)
+            this.enemies.push(e1)
 
-        this.enemies.push(e1)
-        this.enemies.push(e2)
+        }
+    
     }
     setupHUD(){
         let gun = GuaImage.new(this.game, 'gun')
