@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>game 1</title>
+    <style media='screen'>
+        div {
+            outline: dashed lightskyblue 1px;
+        }
+        canvas{
+            border: 1px black solid;
+        }
+        .gua-inline-block{
+            display: inline-block;
+        }
+
+    </style>
+    <!-- 主程序 -->
+    <script src="guagame/gua_math.js"></script>
+    <script src="guagame/gua_game.js"></script>
+    <script src="guagame/gua_scene.js"></script>
+    <script src="guagame/gua_image.js"></script>
+    <script src="guagame/gua_particle.js"></script>
+    <script src="guagame/gua_label.js"></script>
+    <script src="guagame/gua_animation.js"></script>
+    <script src="guagame/gua_nes_sprite.js"></script>
+    <script src="guagame/gua_tile_map.js"></script>
+    <script src="guagame/utils.js"></script>
+    <script src="guagame/config.js"></script>
+    <script src="guagame/gua_vector.js"></script>
+    <!-- 各种组件内容 -->
+    <!-- <script src="scene/main/ball.js"></script>
+    <script src="scene/main/block.js"></script>
+    <script src="scene/main/paddle.js"></script> -->
+    <!-- 关卡编辑 -->
+    <script src="levels.js"></script>
+    <script src="main.js"></script>
+    <script src="mpa.js"></script>
+    <!-- 场景情况 -->
+    <!-- <script src="scene/main/scene.js"></script>
+    <script src="scene/end/sceneEnd.js"></script> -->
+    <script src="scene/title/title.js"></script>
+    <script src="scene/title/tower.js"></script>
+    <script src="scene/title/enemy1.js"></script>
+    <script src="scene/title/td_map.js"></script>
+    <script src="scene/utils/pathfinding.js"></script>
+    <!-- <script src="scene/editor/editor.js"></script> -->
+
+</head>
+<body> 
+    <!-- 别忘记加上这一段主体 -->
+    <canvas id='id-canvas' width="600" height="400"></canvas>
+    <!-- <div class='gua-inline-block'>
+        <img data-action='change_active_tile' src="img/mario/t1.png" data-id="1">
+        <img data-action='change_active_tile' src="img/mario/t2.png" data-id="2">
+        <img data-action='change_active_tile' src="img/mario/t3.png" data-id="3">
+        <img data-action='change_active_tile' src="img/mario/t4.png" data-id="4">
+    </div> -->
+    <hr>
+    <input id='id-input-speed' type="range"  value="1">
+    <div class=''>
+        <!-- <textarea id="id-text-log" cols="200" rows="6"></textarea> -->
+    </div>
+    <div class='gua-controls'>
+        <!-- <label for="">
+            <input class='gua-auto-slider' type="range"
+            max='500'
+            value=''
+            data-value='config.player_speed'
+            >
+            玩家速度：<span class='gua-label'></span>
+        </label> -->
+    </div>
+
+<script>
+    var es = sel => document.querySelectorAll(sel)
+
+    var bindAll = function(sel, eventName, callback){
+        var l = es(sel)
+        for (let i = 0; i < l.length; i++) {
+            var input = l[i]
+            input.addEventListener(eventName, function(event){
+                callback(event)
+            })
+        }
+    }
+    var templateControl = function(key, item){
+        var i = item
+        var t = `
+        <label for="">
+            <input class='gua-auto-slider' type="range"
+            max='500'
+            value='${i.value}'
+            data-value='config.${key}'
+            >
+            ${i._comment}：<span class='gua-label'></span>
+        </label>
+        `
+        return t
+    }
+    var insertControls = function(){
+        var div = e('.gua-controls')
+        var keys = Object.keys(config)
+        for (let k of keys) {
+            var item = config[k]
+            var html = templateControl(k, item)
+            div.insertAdjacentHTML('beforeend', html)//可以做个性能测试
+        }
+    }
+    const actions = {
+            change_active_tile(event){
+                let id = Number(event.target.dataset.id)
+                log('id = ', id)
+                // window.offset += offset
+                // e('h3').innerHTML = window.offset
+                // drawNes(window.bytes)
+            },
+        }
+
+    var bindEvents = function(){
+        bindAll('.gua-auto-slider', 'input', function(event){
+            var target = event.target
+
+            var bindVar = target.dataset.value
+            var v = target.value
+            eval(bindVar + '.value =' + v)
+
+            var label = target.closest('label').querySelector('.gua-label')
+            label.innerText = v
+        })
+        e('body').addEventListener('click', event => {
+                let action = event.target.dataset.action
+                actions[action] && actions[action](event)
+        })
+    }
+    var _main = function(){
+        insertControls()
+        bindEvents()
+    }
+    _main()
+</script>
+</body>
+</html> 
