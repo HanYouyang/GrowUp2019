@@ -22,7 +22,7 @@ class Zombie extends GuaAnimation {
         this.x -= 0.2
     }
     setup(){
-
+        this.row = -1
     }
     
 }
