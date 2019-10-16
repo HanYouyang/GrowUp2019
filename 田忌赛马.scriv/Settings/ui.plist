@@ -223,8 +223,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {616, 1400}}</string>
-		<string>{{617, 0}, {1943, 1400}}</string>
+		<string>{{0, 0}, {292.5, 628}}</string>
+		<string>{{293.5, 0}, {922.5, 628}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -1024,6 +1024,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>6B9D2BBB-2D9B-4C41-854B-8B1420FF6A30</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>6BB3BFA3-1CD5-4105-98E4-243553EF8842</key>
 		<dict>
 			<key>Row</key>
@@ -1754,6 +1759,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>C790AB6D-FE96-42F6-9445-D5CCD520F44D</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C8CB210C-2E00-4600-8B1A-F8C36F59D28F</key>
 		<dict>
 			<key>Row</key>
@@ -2148,7 +2158,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {512, 710}}</string>
+		<string>{{0, 0}, {245, 711}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -2167,7 +2177,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>-640 756 1216 743 0 0 1280 777 </string>
+	<string>63 127 1216 650 0 0 1280 777 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -2177,7 +2187,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>746</real>
+			<real>230</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
@@ -2190,7 +2200,7 @@
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
-		<real>3</real>
+		<real>2</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>
