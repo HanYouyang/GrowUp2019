@@ -6,12 +6,22 @@
 	<real>1.5</real>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {279.5, 653}}</string>
-		<string>{{280.5, 0}, {719.5, 653}}</string>
+		<string>{{0, 0}, {279.5, 1359}}</string>
+		<string>{{280.5, 0}, {1438.5, 1359}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
 		<key>15923392-DFFE-40DE-B6AE-17D3AA623C1D</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>197CA17F-9F6D-46EB-8C56-47033917E635</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>2F5EEAD3-3015-442C-91AE-3AC3E0F4F144</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -36,6 +46,16 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>5549EC8E-64C7-4275-AE22-DEEB3F896F67</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>57933B6C-C00F-4E34-8A00-D3C268923DF2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>5853D482-34F0-4DA0-9A25-FB873DE9E767</key>
 		<dict>
 			<key>Row</key>
@@ -46,12 +66,22 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>5ECECAD7-7DEE-4B15-ADC3-5414FFFA6758</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>6124759A-C410-4255-82C1-C17DB156EF62</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
 		<key>6963A081-0652-4205-B781-5B740D993254</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7107FFAD-AB9B-4A78-8A0D-A5F5889C2FE9</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -82,6 +112,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>B3BA3A14-CEFA-4018-8193-B6B79E4D184D</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>C35B0DE4-4F85-40E2-8776-F603E445EE0E</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -167,7 +202,7 @@
 		<real>2</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1670 39 1000 675 1280 -640 2560 1417 </string>
+	<string>1280 -604 1719 1381 1280 -640 2560 1417 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>

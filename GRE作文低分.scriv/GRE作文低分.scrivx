@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="3D7DECD9-4708-43CF-A33E-999F63EBB046" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-10-16 08:37:09 +0800" ModID="2DD06647-60C2-4477-9C66-F08CAC95EC30">
+<ScrivenerProject Identifier="3D7DECD9-4708-43CF-A33E-999F63EBB046" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-10-17 11:50:33 +0800" ModID="C5B344F4-8414-430F-A411-670ED87CBECB">
     <Binder>
         <BinderItem UUID="DFF6A0EE-CE14-422A-97E2-F4A7388725B3" Type="DraftFolder" Created="2019-06-25 11:47:14 +0800" Modified="2019-06-25 11:47:14 +0800">
             <Title>草稿</Title>
@@ -28,16 +28,69 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="46C407F9-E0FB-4643-A602-A150DA86A3C0" Type="Text" Created="2019-10-13 16:48:28 +0800" Modified="2019-10-14 22:14:45 +0800">
-                    <Title>新/深</Title>
+                <BinderItem UUID="57933B6C-C00F-4E34-8A00-D3C268923DF2" Type="Text" Created="2019-10-16 11:48:54 +0800" Modified="2019-10-16 16:50:21 +0800">
+                    <Title>批判思考/独立思考=澄清前提+划定界限</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>47,0</TextSelection>
+                        <TextSelection>110,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C35B0DE4-4F85-40E2-8776-F603E445EE0E" Type="Text" Created="2019-10-16 11:55:47 +0800" Modified="2019-10-16 16:50:38 +0800">
+                    <Title>澄清前提：区分价值判断与事实判断-撇去价值判断（本能/情感/利益/道德）干扰</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="46C407F9-E0FB-4643-A602-A150DA86A3C0" Type="Text" Created="2019-10-13 16:48:28 +0800" Modified="2019-10-16 16:39:34 +0800">
+                    <Title>澄清前提：区分观点（人们认为的事实）和事实-新/深-吸引读者</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>46,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2F5EEAD3-3015-442C-91AE-3AC3E0F4F144" Type="Text" Created="2019-10-16 11:47:29 +0800" Modified="2019-10-16 11:56:08 +0800">
+                    <Title>划定界限：数轴划分-二分法/三分法</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>43,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="197CA17F-9F6D-46EB-8C56-47033917E635" Type="Text" Created="2019-10-16 10:31:32 +0800" Modified="2019-10-16 11:56:18 +0800">
+                    <Title>划定界限：象限划分-2x2方格</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>186,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="5ECECAD7-7DEE-4B15-ADC3-5414FFFA6758" Type="Text" Created="2019-10-16 08:37:04 +0800" Modified="2019-10-16 08:37:08 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>171,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5549EC8E-64C7-4275-AE22-DEEB3F896F67" Type="Text" Created="2019-10-16 16:51:05 +0800" Modified="2019-10-16 16:51:32 +0800">
+                    <Title>10倍精彩</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>14,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8ECDE3D6-ECB2-4C9D-B8A7-8E87F3D23624" Type="Text" Created="2019-10-17 11:49:53 +0800" Modified="2019-10-17 11:50:33 +0800">
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -249,6 +302,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="7107FFAD-AB9B-4A78-8A0D-A5F5889C2FE9" Type="Text" Created="2019-10-16 16:34:11 +0800" Modified="2019-10-16 16:34:40 +0800">
+                    <Title>澄清前提：人们认为事实和事实</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>14,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -309,14 +371,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-06-25 11:47:13 +0800" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-17 00:00:00 +0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-10-16 08:37:01 +0800"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-18 00:00:00 +0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2019-10-17 11:49:48 +0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-10-16 00:00:00 +0800">
+    <RecentWritingHistory Date="2019-10-17 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>349</OtherWordCount>
-        <OtherCharCount>606</OtherCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

@@ -8,5 +8,5 @@
     <Day dwc="0" dcc="0" dtwc="488" owc="473" occ="870" dtcc="1359">2019-07-10</Day>
     <Day dwc="0" dcc="0" owc="0" occ="-1">2019-07-12</Day>
     <Day dwc="0" dcc="0" dtwc="393" owc="24" occ="47" dtcc="675">2019-10-14</Day>
-    <Day dwc="0" dcc="0" owc="349" occ="606">2019-10-16</Day>
+    <Day dwc="0" dcc="0" dtwc="393" owc="606" occ="1115" dtcc="675">2019-10-16</Day>
 </WritingHistory>
