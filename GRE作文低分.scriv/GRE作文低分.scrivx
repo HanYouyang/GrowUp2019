@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="3D7DECD9-4708-43CF-A33E-999F63EBB046" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-10-17 11:50:33 +0800" ModID="C5B344F4-8414-430F-A411-670ED87CBECB">
+<ScrivenerProject Identifier="3D7DECD9-4708-43CF-A33E-999F63EBB046" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2019-10-19 10:24:07 +0800" ModID="4CBBED86-341D-4B31-92E6-8A2470E19CFC">
     <Binder>
+        <BinderItem UUID="1E2156B9-8EAA-4496-BEDB-D4762A079C39" Type="Folder" Created="2019-10-19 10:22:42 +0800" Modified="2019-10-19 10:22:56 +0800">
+            <Title>JS软件工程</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="B417FC46-2B5F-44F7-A5BC-2BA045EFA3D0" Type="Text" Created="2019-10-19 10:23:02 +0800" Modified="2019-10-19 10:23:02 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="898CF8E5-236C-476E-9E0A-881174A3546D" Type="Text" Created="2019-10-19 10:23:58 +0800" Modified="2019-10-19 10:23:58 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
         <BinderItem UUID="DFF6A0EE-CE14-422A-97E2-F4A7388725B3" Type="DraftFolder" Created="2019-06-25 11:47:14 +0800" Modified="2019-06-25 11:47:14 +0800">
             <Title>草稿</Title>
             <MetaData>
@@ -13,7 +40,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>478,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -292,26 +319,6 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
-            <Children>
-                <BinderItem UUID="8D126722-0DB5-4639-B144-E9135FAB2459" Type="Text" Created="2019-07-12 09:13:19 +0800" Modified="2019-07-12 10:08:53 +0800">
-                    <Title>逆向解方程</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="7107FFAD-AB9B-4A78-8A0D-A5F5889C2FE9" Type="Text" Created="2019-10-16 16:34:11 +0800" Modified="2019-10-16 16:34:40 +0800">
-                    <Title>澄清前提：人们认为事实和事实</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>14,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -371,10 +378,10 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-06-25 11:47:13 +0800" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-18 00:00:00 +0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-10-17 11:49:48 +0800"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-20 00:00:00 +0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2019-10-19 10:17:05 +0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-10-17 00:00:00 +0800">
+    <RecentWritingHistory Date="2019-10-19 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>

@@ -1179,6 +1179,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>7B74016B-FCDE-474D-8476-CB014844A16F</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>7BBB8FF0-137D-4C4E-A086-CF4B55E063D2</key>
 		<dict>
 			<key>Row</key>
@@ -2182,7 +2187,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>63 127 1216 650 0 0 1280 777 </string>
+	<string>153 127 1216 650 0 0 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -2201,7 +2206,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 1036}, {453.5, 270.99999999999841}}</string>
+	<string>{{0, 0}, {453.5, 271}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
