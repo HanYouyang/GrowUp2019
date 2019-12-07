@@ -268,8 +268,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {293, 760}}</string>
-		<string>{{294, 0}, {986, 760}}</string>
+		<string>{{0, 0}, {278, 1400}}</string>
+		<string>{{279, 0}, {2281, 1400}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -650,6 +650,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>2FB13551-00DD-425F-BED5-AA456DCAE2B7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>2FBBF899-23E5-4F33-BF84-F747007FD29A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1074,6 +1079,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>6B6075F0-377B-494C-9560-86C4523F9C0D</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>6B93888C-D8E4-40D3-8578-64317C9D6712</key>
 		<dict>
 			<key>Row</key>
@@ -1085,6 +1095,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>6BB3BFA3-1CD5-4105-98E4-243553EF8842</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>6BCBBEF7-5950-4B78-9331-113594CC3E4A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1165,6 +1180,16 @@
 			<integer>-1</integer>
 		</dict>
 		<key>72B8D21D-7C07-41D1-A1B8-0FA7EFFB4564</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>74566DB3-FFB9-4017-B8E9-F457AE43F22C</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7488C046-932C-4DF4-9D52-E84D252C6734</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1460,6 +1485,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>9A253CDC-6447-45AA-88F5-135BB1140C5B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>9BA0EB51-1EE8-4F72-A1F6-9063F663E000</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1859,6 +1889,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>CE35B830-801D-4702-A298-35AF679200E3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>CF9D8C45-DB08-4F86-B303-1C67B9F52DE0</key>
 		<dict>
 			<key>Row</key>
@@ -2084,6 +2119,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>F96B05DA-ED5A-4C00-9A72-7A9A1467CE74</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>F9B25A6D-EEEC-40EE-B3BF-9CFDF4A29B96</key>
 		<dict>
 			<key>Row</key>
@@ -2140,6 +2180,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>FDAC8F90-D8B9-4A03-A9B2-993AA783863B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>FDCA1934-6264-414B-81F8-69DFA6907BC5</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2208,7 +2253,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {256, 618}}</string>
+		<string>{{0, 0}, {494, 619}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -2227,7 +2272,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>51 126 1216 651 0 0 1280 800 </string>
+	<string>-1489 -24 1216 652 -2560 -640 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>

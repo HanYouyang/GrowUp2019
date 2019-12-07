@@ -389,4 +389,6 @@
     <Day dwc="0" dcc="51" dtwc="1038539" owc="0" occ="0" dtcc="1915038">2019-10-24</Day>
     <Day dwc="0" dcc="0" dtwc="1038551" owc="279" occ="553" dtcc="1915038">2019-11-10</Day>
     <Day dwc="0" dcc="0" owc="0" occ="-4">2019-11-11</Day>
+    <Day dwc="0" dcc="0" dtwc="1038551" owc="60" occ="115" dtcc="1915038">2019-11-30</Day>
+    <Day dwc="0" dcc="0" owc="2" occ="5">2019-12-01</Day>
 </WritingHistory>
