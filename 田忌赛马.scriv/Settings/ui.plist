@@ -3,12 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CollectionSelections</key>
-	<dict>
-		<key>46A92DD8-CDA4-428A-A446-507345819A04</key>
-		<array>
-			<string>6C9F550A-BE24-416C-906C-365635CF2582</string>
-		</array>
-	</dict>
+	<dict/>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>QRPanelSettings</key>
@@ -268,8 +263,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {278, 1400}}</string>
-		<string>{{279, 0}, {2281, 1400}}</string>
+		<string>{{0, 0}, {575, 1400}}</string>
+		<string>{{576, 0}, {1984, 1400}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -2216,9 +2211,7 @@
 		</dict>
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
-	<array>
-		<integer>1</integer>
-	</array>
+	<array/>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
 		<key>MainID</key>
@@ -2253,7 +2246,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {494, 619}}</string>
+		<string>{{0, 0}, {246, 620}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -2272,7 +2265,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>-1489 -24 1216 652 -2560 -640 2560 1417 </string>
+	<string>2351 392 1216 653 1280 -225 2560 1440 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -2282,7 +2275,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>230</real>
+			<real>573</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
@@ -2291,7 +2284,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {485.5, 337}}</string>
+	<string>{{0, 0}, {620, 657}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
